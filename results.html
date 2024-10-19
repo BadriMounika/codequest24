@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top Performing Students</title>
+    <style>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Top Performing Students</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Student ID</th>
+                <th>Name</th>
+                <th>Batch</th>
+                <th>Department</th>
+                <th>Predicted Score</th>
+                <th>Rank</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for student in students %}
+                <tr>
+                    <td>{{ student['Student ID'] }}</td>
+                    <td>{{ student['Name'] }}</td>
+                    <td>{{ student['Batch'] }}</td>
+                    <td>{{ student['Department'] }}</td>
+                    <td>{{ student['Predicted Score'] }}</td>
+                    <td>{{ student['Rank'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,501 @@
+Student ID,Name,Batch,Department,CGPA,Semester 1 GPA,Semester 2 GPA,Semester 3 GPA,Semester 4 GPA,Semester 5 GPA,Semester 6 GPA,Semester 7 GPA,Semester 8 GPA,Attendance,Hackathon Participation,Paper Presentations,Workshops and Seminars,Internships,Projects,Contributions,Club Activities,Technical Skills,Soft Skills,Awards,Scholarships,Overall Performance Score,Rank,Performance Trend,Date of Record,Semester/Term
+3742,Frank Brown,2019,CSE,3.48,2.49,2.28,2.2,3.48,3.09,3.18,2.06,2.19,74,4,0,4,0,5,Course Assistant,Leader,"SQL, C++",Teamwork,3,1,78.34,28,Stable,2024-07-31,Semester 1
+4465,Luis Sims,2019,Mechanical,2.19,3.69,3.21,3.61,3.46,3.07,3.95,2.76,3.1,100,4,2,4,0,1,Mentor,Leader,"Python, Java",Leadership,2,1,89.07,47,Improving,2024-03-31,Semester 3
+9697,Jason Mitchell,2021,ECE,3.34,3.4,3.37,2.14,3.27,3.07,2.49,2.92,2.54,100,5,1,2,0,2,Mentor,Participant,"C++, Python",Time Management,2,0,89.66,51,Declining,2024-02-09,Semester 4
+8831,Jacqueline Johnson,2020,EEE,2.28,3.49,3.08,3.49,2.86,3.17,2.72,3.99,2.28,91,0,0,0,0,2,None,None,"Python, HTML/CSS, SQL","Time Management, Problem-solving",0,2,91.62,88,Declining,2024-10-09,Semester 3
+3425,Phyllis Jackson,2021,CSE,2.59,2.32,2.01,3.44,3.44,3.94,3.52,3.02,2.21,100,2,1,1,1,2,None,Active Member,"C++, HTML/CSS, Python",Problem-solving,2,0,71.74,73,Improving,2024-08-15,Semester 1
+9316,Ms. Theresa Smith,2022,CSE,3.96,3.07,2.25,3.32,3.89,2.33,3.06,3.21,3.93,94,5,1,2,1,3,Course Assistant,None,Java,Communication,2,0,87.65,30,Declining,2024-06-18,Semester 2
+6145,Nancy Moody,2019,CSE,3.42,2.12,2.13,2.06,2.66,3.03,2.56,2.97,3.08,96,4,3,1,1,4,Mentor,Active Member,JavaScript,"Problem-solving, Leadership",3,1,95.92,7,Declining,2024-07-09,Semester 1
+8603,Steven Willis,2019,Mechanical,3.46,3.6,2.22,2.38,3.07,2.28,2.37,2.93,3.75,64,3,0,0,2,5,Mentor,Active Member,Java,"Leadership, Time Management",1,1,97.07,22,Stable,2024-05-01,Semester 1
+9461,Adam Baird,2022,EEE,3.85,3.57,2.57,3.39,3.46,3.57,3.32,2.97,2.38,73,0,0,2,0,1,None,None,"SQL, Java, Python",Teamwork,0,2,72.04,31,Stable,2024-01-22,Semester 1
+1057,Kayla Johnson,2020,Civil,3.19,3.24,2.84,3.17,3.05,3.87,2.41,3.43,2.48,85,1,2,3,1,1,Mentor,None,"SQL, Python, JavaScript",Time Management,2,0,98.0,9,Improving,2024-07-03,Semester 3
+6648,Margaret Wise,2021,ECE,2.88,3.09,2.61,3.97,3.61,3.06,3.34,3.11,3.86,66,1,2,0,0,5,Mentor,Participant,"SQL, Java","Teamwork, Problem-solving",3,1,97.16,7,Improving,2024-01-11,Semester 4
+2164,James Serrano,2021,CSE,2.01,3.54,3.27,2.52,3.48,3.1,2.86,2.02,2.15,69,4,0,2,2,5,Mentor,None,Python,"Problem-solving, Communication",2,0,90.46,86,Improving,2024-08-12,Semester 3
+4802,Benjamin Andersen,2022,Civil,3.5,3.85,2.47,2.33,3.6,2.35,2.82,2.36,3.85,86,5,1,2,0,1,Course Assistant,Active Member,"Java, JavaScript","Problem-solving, Time Management",1,0,70.71,25,Stable,2024-02-26,Semester 3
+8482,Melody Ellis,2021,CSE,3.93,2.56,3.28,2.8,3.96,3.07,3.88,2.23,3.94,71,4,2,0,0,5,Course Assistant,Participant,"C++, HTML/CSS, Python","Time Management, Teamwork",2,0,91.26,1,Declining,2024-07-30,Semester 2
+7826,Joel Campbell,2021,Mechanical,2.14,3.33,2.66,2.63,3.7,3.44,2.6,2.62,2.82,85,5,2,4,0,2,Course Assistant,None,"JavaScript, Java, C++","Time Management, Communication",2,1,76.31,75,Declining,2024-07-27,Semester 3
+3892,Bradley Brown,2022,Mechanical,2.88,2.43,2.95,3.8,3.59,2.34,2.17,3.03,3.27,81,0,1,2,0,2,Mentor,Active Member,Java,"Time Management, Communication",3,1,96.58,74,Improving,2024-05-16,Semester 4
+5269,Joseph Hensley,2022,Mechanical,2.49,3.31,2.01,3.5,3.54,2.21,2.85,2.35,3.92,93,3,0,4,0,1,Course Assistant,Leader,"JavaScript, SQL","Leadership, Time Management",3,0,92.31,61,Stable,2024-09-11,Semester 3
+4667,Shelly Conley,2020,EEE,3.53,3.04,3.25,2.55,2.15,2.57,2.54,2.64,3.08,68,1,1,3,2,2,None,Leader,HTML/CSS,"Problem-solving, Leadership",3,0,76.21,54,Stable,2024-09-16,Semester 1
+7677,Justin Wyatt,2022,Mechanical,2.01,2.7,3.51,3.71,3.91,2.84,3.5,3.09,3.21,74,3,1,2,1,4,Mentor,None,"JavaScript, HTML/CSS",Leadership,1,2,86.02,51,Declining,2024-03-11,Semester 1
+8826,Karina Anderson,2019,Mechanical,2.27,2.92,2.1,2.76,2.42,2.65,3.52,2.76,3.5,86,2,0,3,0,5,Mentor,Participant,JavaScript,Communication,0,0,75.98,3,Declining,2024-06-19,Semester 2
+6346,Andrew Haynes,2020,ECE,2.95,2.23,3.9,2.93,2.51,2.74,3.21,3.93,3.44,70,2,0,4,0,3,None,None,"JavaScript, Java",Time Management,1,0,90.92,39,Declining,2024-05-29,Semester 1
+4097,Lindsay Williams,2019,EEE,3.07,3.32,2.14,3.3,2.03,2.84,2.98,2.87,2.72,89,5,1,3,0,5,None,Participant,"SQL, HTML/CSS, JavaScript","Time Management, Problem-solving",2,0,94.92,12,Stable,2024-07-29,Semester 4
+1354,Jacob Campos,2020,Mechanical,3.14,3.34,2.67,2.99,2.65,2.98,2.71,2.52,2.56,98,5,2,4,0,5,Mentor,Active Member,JavaScript,"Leadership, Teamwork",3,2,91.36,58,Improving,2024-03-03,Semester 1
+2616,Gary Wood,2021,ECE,2.81,2.49,3.33,2.74,3.11,2.69,3.99,3.1,2.7,89,2,2,2,0,1,None,Leader,"Python, SQL",Teamwork,1,2,84.53,93,Declining,2024-07-22,Semester 3
+8350,Denise Simpson,2019,ECE,2.59,2.72,2.6,3.42,2.25,2.09,2.11,2.58,3.89,100,3,0,0,2,3,Course Assistant,None,"C++, Java",Problem-solving,3,0,94.66,52,Stable,2024-05-23,Semester 1
+4896,Deborah Hunt,2019,ECE,2.3,3.13,2.61,3.99,2.24,3.53,3.21,3.58,2.45,93,3,3,3,1,5,Course Assistant,Participant,"SQL, Python, JavaScript",Teamwork,2,2,72.44,31,Improving,2024-06-13,Semester 1
+7920,Joanna Cox MD,2020,CSE,2.82,3.38,2.94,2.07,2.58,2.57,3.72,2.14,2.47,76,5,1,3,0,5,Mentor,Leader,"Java, Python",Teamwork,2,2,92.47,73,Stable,2024-02-10,Semester 4
+3187,Stephanie Alvarez,2019,Mechanical,3.38,3.4,3.89,3.0,2.99,2.16,2.08,2.86,2.64,76,0,0,1,2,5,None,Active Member,"C++, SQL, Python",Leadership,3,1,75.44,75,Stable,2024-01-02,Semester 4
+3910,Jay Turner,2019,Mechanical,2.7,2.67,3.34,3.72,2.66,3.39,2.58,3.89,3.63,95,0,3,0,1,3,Course Assistant,Active Member,"SQL, Python","Leadership, Communication",1,2,80.85,97,Stable,2024-10-04,Semester 4
+5971,Whitney Smith,2019,ECE,2.53,2.26,2.58,3.76,2.97,2.06,3.26,3.6,3.42,79,4,0,4,1,1,Mentor,Active Member,"Python, Java","Problem-solving, Time Management",3,1,99.41,32,Stable,2024-07-04,Semester 2
+5681,Linda Hopkins,2022,ECE,3.84,3.02,3.76,3.73,2.55,3.58,2.83,3.87,3.02,60,2,2,4,2,4,Mentor,None,"HTML/CSS, C++, SQL","Leadership, Problem-solving",1,2,77.16,50,Improving,2024-02-28,Semester 4
+8453,Ashley Luna,2019,EEE,3.49,3.41,3.62,2.77,3.33,3.64,3.96,2.99,2.07,92,4,2,0,1,1,None,None,JavaScript,Leadership,1,0,84.08,34,Stable,2024-07-05,Semester 4
+7728,James Miller,2019,EEE,3.7,3.72,2.76,2.63,3.44,3.52,3.74,2.07,2.14,100,5,2,1,2,1,Course Assistant,Active Member,"JavaScript, Python, HTML/CSS",Problem-solving,0,0,79.73,8,Stable,2024-07-31,Semester 3
+5360,Lisa Medina,2021,Mechanical,2.29,3.06,3.13,3.59,2.34,2.16,3.74,3.24,2.48,97,1,1,3,2,3,Course Assistant,Participant,"Python, HTML/CSS, C++",Communication,3,1,99.63,39,Declining,2024-03-25,Semester 4
+3208,Samuel Richardson,2021,Mechanical,3.69,2.4,2.77,2.97,2.47,3.14,3.15,3.99,2.59,85,2,0,4,2,1,None,None,"Java, SQL","Teamwork, Time Management",2,2,92.67,99,Declining,2024-04-14,Semester 2
+9518,Deanna Griffin,2019,CSE,2.62,2.88,3.16,3.46,2.18,2.59,3.49,2.35,2.26,94,2,2,1,1,4,Course Assistant,Participant,HTML/CSS,Teamwork,1,2,91.73,51,Declining,2024-02-25,Semester 3
+2907,Martha Murray,2019,Mechanical,2.03,3.07,2.91,3.35,3.34,3.17,3.64,3.88,2.22,74,3,0,4,2,3,None,Leader,"Python, HTML/CSS, C++","Communication, Teamwork",0,0,79.13,64,Improving,2024-06-06,Semester 1
+5311,Kelsey Riggs,2020,Civil,2.27,2.91,3.34,3.49,3.89,2.84,3.48,2.31,2.83,66,3,3,2,0,3,Mentor,None,"Java, C++",Problem-solving,2,0,81.94,25,Improving,2024-01-13,Semester 4
+3453,Nicole Stark,2019,ECE,3.28,3.19,2.04,3.57,2.49,2.25,3.13,2.14,3.53,73,4,1,1,1,2,None,Active Member,"Java, JavaScript","Teamwork, Communication",0,0,70.45,31,Declining,2024-02-07,Semester 3
+9748,Benjamin Klein,2019,ECE,2.53,2.25,2.84,2.23,2.13,2.9,2.72,3.19,2.9,74,4,0,4,1,4,None,Active Member,HTML/CSS,"Leadership, Communication",3,2,97.29,10,Improving,2024-07-20,Semester 3
+8173,Mary Butler,2020,CSE,2.25,3.25,3.17,3.42,2.76,3.19,2.59,3.01,2.86,67,5,1,3,1,2,Course Assistant,Participant,"HTML/CSS, JavaScript",Problem-solving,3,1,89.95,48,Improving,2024-07-28,Semester 4
+1832,Jessica Smith,2019,CSE,3.66,2.19,2.19,3.48,3.62,3.11,3.17,3.12,2.66,67,3,2,3,2,1,Course Assistant,Participant,"Python, SQL",Teamwork,3,0,95.42,45,Declining,2024-08-02,Semester 3
+5181,Jasmine Baldwin,2019,EEE,3.15,3.61,3.69,3.95,3.64,3.23,3.29,2.05,3.86,77,0,1,2,2,3,Course Assistant,Participant,Java,Time Management,3,0,74.26,82,Improving,2024-10-04,Semester 1
+5254,Jessica Frazier,2020,Mechanical,2.84,2.68,2.74,3.44,3.55,3.14,2.17,2.11,2.31,99,0,0,2,1,4,Course Assistant,None,"C++, Java",Problem-solving,3,0,78.5,87,Declining,2024-05-02,Semester 4
+8782,Patrick Brandt,2021,CSE,2.44,3.97,2.11,2.41,3.89,3.53,3.53,2.58,2.24,91,5,3,1,0,4,None,Leader,"SQL, C++, Python","Communication, Leadership",0,1,97.63,41,Declining,2024-08-04,Semester 4
+9047,Kendra Scott,2022,Mechanical,2.58,2.81,3.93,2.34,3.9,2.92,3.38,2.72,2.87,66,1,3,4,1,5,Mentor,None,"JavaScript, C++",Problem-solving,1,0,85.31,15,Declining,2024-09-18,Semester 2
+9339,Ashley Stevens DVM,2021,EEE,3.45,3.64,3.63,2.47,2.29,2.39,3.2,3.52,3.31,71,5,3,3,2,5,Course Assistant,Participant,"C++, Java, HTML/CSS",Leadership,3,2,79.08,36,Declining,2024-05-18,Semester 1
+7046,Christopher Bennett,2021,Civil,2.15,2.92,2.08,2.74,2.57,3.29,3.95,2.18,3.19,84,3,0,3,2,2,Course Assistant,None,"Java, Python, HTML/CSS",Problem-solving,0,2,89.38,6,Improving,2024-05-11,Semester 4
+3706,Brenda Briggs,2022,Civil,3.05,2.32,2.75,2.57,2.82,2.68,3.2,3.58,3.29,64,2,0,4,2,4,Course Assistant,Participant,"JavaScript, SQL, Java","Communication, Teamwork",2,1,99.03,90,Declining,2024-02-21,Semester 4
+7956,Kathleen Smith,2020,Civil,3.42,2.17,3.12,3.29,2.66,2.26,3.41,3.89,3.99,93,0,3,4,1,1,Course Assistant,Participant,Java,"Leadership, Teamwork",1,0,74.65,38,Improving,2024-10-04,Semester 1
+8014,Adam Erickson,2021,Civil,2.26,2.75,2.32,3.66,3.54,3.62,2.33,2.88,2.82,75,3,2,3,0,5,Mentor,Participant,"Java, C++","Leadership, Problem-solving",3,2,85.82,21,Improving,2024-09-12,Semester 2
+8949,Anna Bridges,2021,CSE,3.28,3.75,3.11,2.21,3.69,3.7,2.57,3.53,2.55,92,1,3,0,0,4,Course Assistant,Active Member,"Python, HTML/CSS","Teamwork, Leadership",0,1,76.74,41,Improving,2024-05-08,Semester 3
+7775,Christopher Mcclain,2020,ECE,2.08,3.83,2.94,3.66,3.52,2.94,3.23,3.81,2.04,73,1,3,0,1,2,Course Assistant,Active Member,Java,"Time Management, Leadership",0,0,95.1,64,Declining,2024-08-11,Semester 1
+6112,Catherine Robbins,2020,ECE,2.58,2.0,2.71,3.14,2.37,3.34,3.05,2.72,3.91,94,4,0,3,1,1,None,None,"C++, Python","Communication, Problem-solving",1,2,89.71,14,Declining,2024-10-12,Semester 3
+2727,Kelly Guzman,2020,CSE,2.7,2.68,3.29,3.66,3.37,3.96,2.96,2.36,2.27,89,0,2,1,0,2,Mentor,Participant,"SQL, HTML/CSS","Problem-solving, Communication",1,1,80.71,100,Improving,2024-01-20,Semester 3
+1963,Jose Stewart,2021,CSE,3.6,2.87,2.8,2.88,3.91,2.68,2.37,3.38,2.73,93,2,0,3,0,4,None,Leader,"C++, JavaScript, Python",Problem-solving,2,1,83.38,92,Stable,2024-02-20,Semester 2
+1445,Jeremy Trevino,2022,EEE,2.89,3.45,3.82,3.23,2.87,3.28,3.58,2.11,3.34,85,2,1,0,0,5,None,None,Java,Teamwork,2,1,81.49,73,Improving,2024-05-04,Semester 2
+1413,Adam Salinas,2022,EEE,2.74,3.53,3.15,3.06,2.8,3.3,2.5,2.23,3.47,91,4,3,4,0,3,Course Assistant,None,SQL,"Leadership, Teamwork",0,0,95.58,58,Improving,2024-06-28,Semester 4
+7435,Sarah Nielsen,2019,EEE,3.34,3.42,3.1,2.58,2.6,2.32,3.42,3.4,2.35,83,4,1,0,0,2,Mentor,None,C++,"Leadership, Teamwork",0,0,79.28,92,Declining,2024-07-19,Semester 4
+6106,Rachel Hernandez,2022,Mechanical,3.65,2.15,3.94,3.28,2.9,3.36,2.69,3.76,3.56,100,4,1,1,1,5,Mentor,Active Member,"Java, C++, JavaScript",Problem-solving,1,1,98.42,67,Stable,2024-01-23,Semester 1
+4726,Austin Clark,2021,ECE,3.27,3.1,2.25,2.61,3.07,3.01,2.34,3.88,2.31,99,5,2,4,0,1,Mentor,Active Member,"SQL, C++, Java","Time Management, Communication",3,2,86.37,83,Stable,2024-09-23,Semester 4
+5951,Eric Norman,2020,Mechanical,2.59,2.15,2.12,2.88,2.97,2.41,3.21,2.63,3.44,82,3,1,2,2,5,Mentor,Participant,HTML/CSS,Problem-solving,3,0,74.23,7,Stable,2024-03-20,Semester 4
+2517,Michael Mccarthy,2022,ECE,3.93,3.8,3.63,3.87,3.44,2.38,2.32,3.99,2.93,79,3,0,0,1,5,Course Assistant,Leader,SQL,"Communication, Time Management",2,1,87.93,84,Declining,2024-10-05,Semester 4
+2606,Robert Shaw,2021,Civil,2.02,2.21,2.27,2.53,2.73,2.81,2.09,2.1,3.12,83,4,2,0,1,5,Course Assistant,Participant,"JavaScript, SQL, Python",Communication,3,1,93.85,44,Declining,2024-08-14,Semester 3
+7832,Holly Dillon,2020,ECE,3.2,2.8,2.08,2.08,3.43,3.61,3.04,2.3,3.79,68,2,2,1,1,5,None,Participant,"C++, SQL, HTML/CSS","Leadership, Communication",2,1,90.21,54,Declining,2024-04-19,Semester 3
+7028,Jessica Ingram,2019,Civil,2.95,3.93,3.57,3.55,3.16,3.44,3.17,2.34,3.26,99,3,1,1,0,5,None,Active Member,Python,"Problem-solving, Leadership",1,1,90.72,53,Declining,2024-04-06,Semester 4
+3479,Mike Boyer,2019,ECE,3.04,3.12,4.0,2.96,2.75,3.91,2.92,3.07,3.09,76,4,3,1,0,3,None,Participant,C++,"Teamwork, Leadership",2,1,80.46,93,Stable,2024-09-05,Semester 3
+4109,Lynn Deleon,2019,Civil,3.35,2.76,3.96,3.64,3.91,3.61,2.58,2.58,3.43,82,3,2,3,0,2,None,Participant,"JavaScript, C++, Java",Time Management,1,0,71.52,68,Improving,2024-04-11,Semester 2
+3611,Ricky Delacruz,2019,CSE,2.83,3.43,2.2,3.54,2.01,3.1,3.86,2.81,3.87,90,3,1,2,1,3,None,Active Member,JavaScript,Time Management,0,0,82.54,23,Improving,2024-02-01,Semester 4
+9839,John Brown,2022,ECE,3.87,3.92,3.85,3.75,2.02,3.14,2.21,3.97,2.57,94,4,3,1,2,4,Course Assistant,Leader,C++,Leadership,2,2,75.59,95,Stable,2024-02-16,Semester 3
+6225,Julie Mendoza,2020,ECE,3.22,3.28,2.81,2.86,2.66,2.8,2.19,3.96,2.95,75,0,2,3,0,4,Course Assistant,Participant,"SQL, JavaScript",Problem-solving,2,2,77.09,86,Improving,2024-07-18,Semester 4
+5130,Valerie Baker,2021,ECE,2.81,3.01,3.79,3.41,2.62,2.23,3.83,2.59,3.23,74,1,3,1,1,5,Course Assistant,None,"SQL, HTML/CSS, Java",Time Management,0,2,83.4,91,Stable,2024-02-27,Semester 1
+3493,Warren Gardner DVM,2019,CSE,3.66,3.81,2.4,3.07,2.33,3.71,2.88,3.36,3.43,91,0,3,0,1,2,None,None,"SQL, Python","Problem-solving, Communication",3,1,94.49,96,Improving,2024-10-11,Semester 1
+2077,Thomas Smith,2019,Mechanical,2.69,2.13,3.99,3.87,2.14,3.87,2.06,2.82,3.54,86,2,3,3,1,4,Mentor,Leader,"C++, Python, Java","Time Management, Teamwork",1,0,92.69,39,Stable,2024-08-03,Semester 4
+1062,Marissa Jackson,2022,ECE,2.5,2.69,2.55,3.87,3.45,2.23,3.62,2.84,3.53,61,1,1,0,0,5,Mentor,None,"JavaScript, Python, Java",Leadership,3,0,86.19,97,Improving,2024-04-27,Semester 2
+3273,Ashley Snyder,2021,ECE,3.63,3.46,2.64,3.2,3.35,2.64,2.6,2.29,3.32,74,3,2,2,0,5,None,Leader,"JavaScript, HTML/CSS, SQL",Problem-solving,3,2,79.56,54,Stable,2024-02-10,Semester 2
+2333,Joseph Mitchell,2021,Mechanical,2.37,3.08,2.48,2.45,3.72,2.29,2.93,2.12,2.83,86,4,1,3,0,3,Mentor,Participant,"Python, HTML/CSS, C++",Time Management,1,0,78.05,87,Declining,2024-06-08,Semester 1
+5867,Margaret Richards,2019,ECE,3.61,3.18,3.34,2.43,2.42,3.81,2.61,3.82,2.42,72,5,0,3,0,5,None,Leader,"Java, SQL","Problem-solving, Leadership",3,2,89.46,40,Stable,2024-08-14,Semester 3
+6244,John Riddle,2022,Mechanical,2.2,3.96,2.94,3.68,3.83,2.74,2.83,3.13,2.44,69,0,2,4,2,5,None,None,"Java, JavaScript","Teamwork, Leadership",1,1,86.52,88,Stable,2024-06-15,Semester 3
+7736,Brenda Berger,2022,Mechanical,2.92,3.47,2.7,2.28,3.09,2.37,3.78,3.98,3.91,93,0,0,0,0,4,Mentor,Leader,JavaScript,Communication,1,2,83.68,8,Declining,2024-07-05,Semester 4
+3688,Jacob Marshall,2022,CSE,2.01,3.1,2.02,3.06,2.55,3.95,2.03,3.63,3.35,71,0,0,4,0,2,Mentor,Participant,"C++, HTML/CSS",Problem-solving,3,1,86.95,90,Improving,2024-04-05,Semester 3
+1942,Sierra Hernandez,2019,CSE,2.19,2.76,3.11,2.11,2.02,2.34,3.0,2.87,3.57,96,0,0,1,0,5,Course Assistant,Participant,Python,"Time Management, Communication",1,1,70.47,27,Declining,2024-06-20,Semester 2
+5886,Christina Crosby,2022,CSE,2.6,3.13,3.13,3.7,3.35,3.08,2.77,3.48,3.58,65,4,2,0,0,4,Mentor,Active Member,"SQL, JavaScript","Problem-solving, Communication",2,1,84.72,46,Declining,2024-07-13,Semester 4
+1336,Kathryn Ellis,2022,ECE,3.36,3.32,2.17,3.24,3.6,3.43,2.16,2.31,3.42,100,1,3,2,1,1,Mentor,Active Member,"HTML/CSS, C++","Communication, Teamwork",0,0,82.93,72,Declining,2024-02-17,Semester 4
+4227,Kyle Bonilla,2019,CSE,2.18,3.11,3.19,3.57,3.73,2.02,2.83,3.56,3.45,95,1,1,3,0,2,Course Assistant,Participant,"HTML/CSS, Java",Teamwork,3,1,82.63,62,Improving,2024-05-29,Semester 3
+2030,Ebony Burke,2021,ECE,3.44,2.99,3.23,2.92,2.27,2.01,2.79,3.68,2.76,81,3,2,3,2,5,Mentor,Participant,"SQL, Java","Problem-solving, Teamwork",3,1,78.74,89,Declining,2024-10-07,Semester 4
+4078,Alex Murphy,2020,EEE,2.75,3.63,2.79,2.23,3.13,3.18,3.09,3.36,3.1,89,5,1,3,1,1,Course Assistant,None,JavaScript,"Teamwork, Problem-solving",1,2,82.69,49,Improving,2024-05-26,Semester 4
+1417,Christopher Scott,2022,Civil,2.8,3.01,3.84,3.38,3.09,3.58,2.72,3.79,3.07,100,0,0,1,2,3,Mentor,Active Member,"JavaScript, HTML/CSS, C++","Communication, Time Management",0,1,76.66,96,Declining,2024-05-20,Semester 2
+4572,Natalie Wagner,2022,EEE,2.78,3.54,3.18,3.0,2.69,2.05,2.21,2.83,3.92,67,5,1,2,1,3,Course Assistant,Leader,"HTML/CSS, C++, JavaScript",Leadership,3,1,72.02,6,Declining,2024-03-19,Semester 1
+8490,Rachel Davies,2019,EEE,3.3,3.35,2.33,3.97,2.49,2.35,2.32,3.12,3.92,74,3,1,1,2,4,Course Assistant,Active Member,"SQL, Java, HTML/CSS","Leadership, Communication",1,0,78.35,91,Improving,2024-06-30,Semester 1
+4424,Whitney Baker,2020,EEE,2.65,2.92,2.52,3.73,3.06,3.28,3.19,3.22,3.17,82,2,3,4,0,3,None,Active Member,"Java, C++, Python",Problem-solving,0,0,81.2,19,Declining,2024-04-28,Semester 4
+7374,Sarah Bryan,2022,Civil,2.28,2.77,2.37,3.27,3.39,3.29,4.0,3.11,2.98,68,1,2,3,2,1,Course Assistant,Active Member,"Java, JavaScript","Time Management, Leadership",3,2,84.75,91,Stable,2024-01-28,Semester 4
+5684,Susan Chung,2020,CSE,3.13,3.59,2.44,2.07,2.45,2.58,3.56,3.13,3.55,91,4,0,4,0,3,None,Participant,"Python, HTML/CSS, Java","Communication, Teamwork",2,0,83.49,45,Improving,2024-04-03,Semester 4
+2157,Mr. Michael King MD,2019,ECE,2.42,3.48,3.38,3.72,3.22,2.86,3.23,3.57,3.63,63,4,2,4,1,5,None,Leader,"JavaScript, C++","Time Management, Problem-solving",0,0,98.88,53,Improving,2024-10-02,Semester 3
+5380,Christopher Cohen,2020,ECE,2.5,3.42,3.66,3.52,3.35,2.98,3.15,2.54,2.83,88,0,0,3,2,3,None,Participant,"HTML/CSS, C++",Communication,3,2,89.92,46,Improving,2024-03-06,Semester 4
+9744,Daniel Baker,2020,Mechanical,3.65,2.99,2.65,2.57,3.09,2.26,3.7,3.58,3.79,63,0,0,3,0,1,Mentor,None,"Python, HTML/CSS",Teamwork,2,0,96.23,36,Improving,2024-01-16,Semester 3
+9164,Jenna Mathews,2021,CSE,2.74,3.81,2.33,2.79,2.61,3.4,2.47,3.31,3.41,60,1,3,0,0,5,Mentor,None,Python,"Communication, Leadership",1,1,72.12,50,Improving,2024-05-29,Semester 1
+6080,Rachel Torres,2019,EEE,2.74,2.6,2.77,3.63,3.75,3.28,3.35,2.14,3.13,99,5,1,3,1,2,None,Leader,"SQL, HTML/CSS",Communication,0,0,92.57,76,Declining,2024-03-14,Semester 4
+1078,Denise Peterson,2021,Mechanical,2.63,2.28,2.55,2.17,3.11,3.2,3.22,3.56,3.38,79,1,1,3,1,1,Mentor,None,"Python, Java","Time Management, Communication",0,1,98.02,17,Stable,2024-01-10,Semester 4
+1843,Cynthia Gray,2021,Civil,3.37,3.53,3.91,3.54,2.03,2.14,2.52,2.08,2.12,85,4,2,4,1,4,None,None,JavaScript,Problem-solving,0,1,72.37,27,Improving,2024-09-17,Semester 3
+6455,Ms. Mary Sawyer,2022,Civil,3.27,3.67,3.36,2.13,3.4,3.46,3.69,2.12,2.17,87,0,3,4,2,1,Course Assistant,Leader,Python,Communication,1,1,98.59,67,Declining,2024-02-24,Semester 3
+8426,Melinda Torres,2020,EEE,2.25,3.56,2.54,3.77,3.54,2.06,3.61,2.54,2.13,96,5,0,3,1,5,Course Assistant,Active Member,"SQL, Java","Teamwork, Problem-solving",0,2,90.22,15,Improving,2024-04-02,Semester 1
+2707,Spencer Horton,2019,CSE,2.49,2.94,2.77,2.3,3.86,3.71,3.11,3.83,3.48,86,1,2,1,1,3,Course Assistant,Active Member,"C++, Python, SQL",Teamwork,0,1,72.07,60,Stable,2024-09-16,Semester 3
+3860,John Madden,2021,CSE,3.11,2.02,2.4,3.13,2.61,3.25,2.93,3.18,2.99,72,5,1,1,0,4,Mentor,Leader,"C++, Python, JavaScript",Leadership,2,0,76.16,31,Stable,2024-08-19,Semester 4
+7705,Melinda Matthews,2019,ECE,3.42,2.19,3.84,3.79,3.04,3.4,2.74,3.95,2.17,66,4,1,3,0,5,None,Active Member,"JavaScript, Java",Problem-solving,2,1,97.78,51,Declining,2024-04-16,Semester 3
+5514,Kathleen Clark,2021,Mechanical,2.54,2.15,2.41,3.56,3.17,2.31,2.33,2.93,2.81,94,2,1,3,1,4,Course Assistant,Active Member,Java,"Time Management, Communication",1,1,74.45,92,Improving,2024-05-26,Semester 3
+9408,Carla Wallace,2022,Civil,2.1,2.6,3.64,2.35,3.9,3.71,3.11,3.1,2.19,66,1,0,0,0,2,Mentor,Leader,"C++, Python","Communication, Time Management",0,0,97.07,57,Improving,2024-10-01,Semester 1
+5419,Darryl Coleman,2021,CSE,2.09,2.92,2.34,3.15,3.64,2.79,2.06,3.37,2.35,73,1,2,2,1,2,Mentor,Leader,"C++, HTML/CSS, SQL","Communication, Time Management",2,1,74.12,26,Declining,2024-08-08,Semester 2
+8079,Ryan King,2019,Mechanical,3.56,2.72,3.09,2.97,3.83,3.0,2.78,2.36,2.64,74,0,2,0,1,5,Course Assistant,Leader,Python,Teamwork,2,2,94.49,95,Improving,2024-08-05,Semester 2
+4291,Stacy Mora,2022,EEE,3.87,3.98,2.35,2.47,2.64,3.48,2.72,3.18,3.41,82,4,1,4,0,4,None,Participant,HTML/CSS,Communication,0,0,88.05,3,Declining,2024-01-12,Semester 4
+6811,Melissa Baird,2019,EEE,3.84,2.4,2.26,3.43,3.84,3.69,2.65,2.04,3.17,69,0,2,0,1,4,None,Active Member,"C++, JavaScript",Teamwork,3,2,98.82,84,Stable,2024-09-04,Semester 2
+5206,Jason Werner,2021,ECE,3.33,3.63,2.76,3.47,2.59,2.36,2.0,3.4,3.15,96,0,1,4,1,5,Mentor,Active Member,"Java, C++",Teamwork,2,1,75.04,12,Declining,2024-03-25,Semester 3
+6469,Samantha Oliver,2022,CSE,2.53,2.5,2.14,2.51,2.22,2.0,2.77,3.47,3.94,86,3,3,2,2,4,Mentor,None,"JavaScript, Java, SQL","Communication, Time Management",2,0,79.56,14,Improving,2024-08-21,Semester 3
+4898,John Rodriguez,2020,Mechanical,2.32,2.15,3.88,3.96,2.68,3.97,3.79,3.41,2.86,70,4,3,1,0,1,Course Assistant,Leader,HTML/CSS,"Problem-solving, Time Management",1,0,71.49,74,Declining,2024-07-10,Semester 4
+3740,Joel Young,2020,CSE,2.72,2.86,2.59,3.32,3.2,2.4,2.05,2.34,2.58,65,3,0,2,1,4,Course Assistant,Participant,JavaScript,"Teamwork, Problem-solving",3,1,75.6,6,Stable,2024-10-04,Semester 4
+8407,Ashley Robertson,2022,EEE,2.45,2.54,2.12,3.5,3.33,2.17,2.69,3.08,3.94,97,1,0,3,2,4,None,None,"Java, HTML/CSS, C++",Leadership,0,2,87.14,67,Declining,2024-06-12,Semester 2
+9016,John Lewis,2019,Mechanical,2.35,3.97,3.94,3.62,2.25,2.85,3.98,2.87,3.99,100,1,2,2,2,1,Mentor,None,"HTML/CSS, SQL, C++","Time Management, Leadership",0,2,88.69,67,Stable,2024-03-30,Semester 1
+3697,Joshua Shaffer,2022,ECE,2.3,3.18,3.52,3.88,3.85,3.13,2.2,2.57,3.07,82,3,2,3,2,4,None,None,Java,"Leadership, Teamwork",3,0,81.87,43,Declining,2024-05-09,Semester 2
+8117,Alfred Shaw,2019,Mechanical,3.84,3.79,2.04,3.63,2.61,2.56,2.98,3.39,2.2,74,1,2,3,1,3,None,None,"JavaScript, Python, Java","Teamwork, Leadership",3,2,96.02,8,Declining,2024-10-14,Semester 2
+6098,Tammy Tran,2019,EEE,3.42,2.81,3.56,3.05,3.14,2.35,3.75,2.4,2.12,62,3,0,2,2,2,Course Assistant,Participant,"SQL, HTML/CSS",Communication,1,1,84.66,58,Improving,2024-07-26,Semester 4
+7648,Dean Ford,2021,EEE,2.33,3.79,3.5,3.38,2.57,2.77,2.33,3.14,3.93,74,5,1,1,1,4,None,Active Member,"Python, HTML/CSS, Java",Time Management,0,0,77.57,40,Declining,2024-08-17,Semester 3
+3362,Brittany Evans,2022,Mechanical,3.7,2.92,2.44,2.6,3.04,3.25,3.17,2.01,4.0,83,4,2,2,2,1,Course Assistant,Active Member,"C++, JavaScript","Problem-solving, Time Management",1,0,85.52,31,Improving,2024-08-10,Semester 4
+1365,Julie Morris,2021,ECE,3.44,3.31,3.99,2.52,2.84,2.78,2.07,3.42,3.14,72,2,1,4,2,4,None,Participant,"C++, Java, SQL","Communication, Leadership",1,2,77.76,72,Improving,2024-09-24,Semester 3
+3421,William Powers,2019,ECE,2.71,3.49,2.61,3.58,2.66,2.52,2.59,3.7,2.94,100,4,0,3,0,5,Mentor,None,"C++, HTML/CSS, Python",Teamwork,1,1,82.28,73,Stable,2024-07-12,Semester 2
+3277,Lee Smith,2021,ECE,3.56,2.98,3.26,2.35,3.27,2.01,2.55,3.52,2.34,70,3,0,1,2,4,None,None,"HTML/CSS, JavaScript","Communication, Time Management",1,2,81.19,2,Stable,2024-02-19,Semester 2
+6674,Laura Kim,2019,CSE,3.25,2.5,3.39,2.69,2.26,2.77,3.18,2.33,3.65,79,2,3,4,2,5,Course Assistant,None,"Java, C++, HTML/CSS","Teamwork, Time Management",3,0,76.85,94,Improving,2024-09-15,Semester 2
+2962,Melanie Chambers,2019,Civil,3.01,2.25,3.42,3.58,2.75,3.28,3.54,3.25,3.19,63,5,0,0,0,1,Course Assistant,None,"Python, SQL","Leadership, Teamwork",1,2,90.57,2,Stable,2024-05-31,Semester 4
+5039,Jennifer Curtis,2019,Civil,2.54,3.21,2.27,3.66,2.21,3.44,2.24,2.23,2.21,72,4,1,2,2,2,Course Assistant,None,"Java, Python","Teamwork, Leadership",2,0,70.08,86,Improving,2024-09-19,Semester 1
+2070,William Potter,2022,ECE,3.9,3.56,2.15,3.45,3.81,3.29,2.91,3.95,2.53,63,0,1,0,1,3,None,Participant,"JavaScript, Python",Communication,0,0,89.9,22,Stable,2024-09-14,Semester 3
+1839,Mary Wilson,2022,Civil,2.54,3.47,2.75,2.69,2.23,2.8,2.91,3.67,3.38,90,3,1,0,0,1,Mentor,Active Member,"SQL, HTML/CSS","Teamwork, Leadership",2,2,70.86,88,Declining,2024-01-12,Semester 2
+3258,Katherine Carrillo,2022,Mechanical,2.23,2.82,2.09,2.52,2.63,3.41,3.36,3.54,3.15,96,1,2,4,2,5,Mentor,None,"JavaScript, Java, HTML/CSS","Leadership, Teamwork",0,0,89.3,21,Declining,2024-01-22,Semester 4
+9629,Michael Wagner,2022,ECE,2.15,2.98,2.48,3.94,2.1,2.45,3.29,2.81,2.47,89,3,3,0,1,4,Course Assistant,Active Member,"JavaScript, Python",Leadership,3,0,86.71,1,Improving,2024-03-14,Semester 3
+8192,Ashley Schwartz,2020,Mechanical,3.9,2.73,2.11,2.45,2.91,3.12,3.24,2.95,3.31,88,0,0,1,0,3,Course Assistant,Participant,"SQL, C++, Python",Teamwork,3,0,94.66,96,Declining,2024-08-03,Semester 4
+5252,Monica Fernandez,2019,EEE,3.22,2.38,3.86,2.79,2.91,3.56,3.43,2.22,2.83,100,5,0,3,1,5,None,Leader,"Python, SQL",Time Management,3,2,84.49,66,Improving,2024-06-11,Semester 2
+9444,Thomas Clark,2020,CSE,2.77,3.2,3.77,3.01,2.77,3.96,3.83,3.52,2.55,81,2,3,1,0,4,None,Participant,"SQL, C++, Java",Teamwork,2,2,80.36,87,Improving,2024-08-16,Semester 2
+5202,Cheyenne Schwartz,2021,CSE,3.52,3.12,3.17,3.89,3.42,3.35,3.79,3.07,3.75,87,0,0,0,1,2,Mentor,Active Member,C++,Problem-solving,2,0,95.18,89,Stable,2024-06-06,Semester 2
+3395,Laura King,2019,EEE,3.63,2.2,3.74,3.48,3.73,3.48,3.12,2.48,3.57,78,5,0,3,1,4,None,Participant,"Python, JavaScript, C++",Time Management,3,0,97.34,91,Declining,2024-04-30,Semester 3
+6753,Jennifer Williams,2020,ECE,2.59,2.35,3.37,2.37,2.35,3.03,2.75,2.86,3.11,68,1,2,0,1,4,None,Leader,Java,"Time Management, Communication",2,1,93.7,71,Stable,2024-02-20,Semester 1
+6806,Jackie Kennedy,2021,Civil,2.44,2.37,2.14,3.01,2.83,3.07,2.18,2.44,2.43,81,2,2,2,0,5,None,None,"JavaScript, Python, SQL","Leadership, Teamwork",1,0,90.48,42,Stable,2024-04-20,Semester 1
+7680,Harold Morgan,2022,EEE,3.08,2.57,3.82,3.64,2.75,3.61,2.89,2.09,3.8,72,2,0,0,0,5,None,Active Member,"Python, Java, SQL","Communication, Teamwork",3,2,94.5,10,Declining,2024-05-19,Semester 2
+3993,Anita Williams,2019,Mechanical,3.43,2.08,2.15,2.36,2.5,2.14,3.64,3.82,2.82,88,5,3,3,1,1,Course Assistant,Active Member,"Python, SQL, JavaScript",Communication,2,2,73.18,88,Stable,2024-05-20,Semester 1
+2633,Sara Barber,2021,Mechanical,2.76,3.64,2.06,2.31,2.44,3.49,3.59,3.7,2.59,100,1,2,2,0,5,None,Leader,Python,Time Management,3,2,86.43,11,Stable,2024-07-15,Semester 2
+3423,Lauren Gutierrez,2021,ECE,2.83,3.29,3.03,2.32,2.44,3.67,2.39,2.36,3.6,63,4,3,4,0,3,None,Active Member,"Python, Java","Problem-solving, Time Management",1,2,89.66,13,Stable,2024-07-16,Semester 1
+2883,Kimberly Evans,2020,EEE,2.97,2.66,3.32,3.39,2.3,3.13,3.62,3.92,2.34,80,1,1,3,1,3,Mentor,Participant,"HTML/CSS, JavaScript","Problem-solving, Leadership",0,0,89.37,11,Stable,2024-09-29,Semester 2
+1328,Joseph Chavez,2020,EEE,3.47,3.25,3.45,3.78,3.7,3.26,3.63,3.16,3.54,73,0,2,4,2,4,None,Leader,"HTML/CSS, Java","Teamwork, Leadership",0,1,80.92,2,Declining,2024-10-17,Semester 2
+9641,Anthony Harris,2020,Civil,2.28,2.32,3.13,3.13,3.74,2.29,3.46,3.88,2.08,91,1,0,2,1,2,Mentor,Leader,"C++, HTML/CSS, SQL","Communication, Time Management",2,0,91.11,67,Declining,2024-03-28,Semester 3
+9696,Jacob Valdez,2021,Civil,3.09,2.35,3.31,2.73,3.31,3.67,3.03,2.75,3.81,93,3,2,2,1,4,None,Active Member,"Java, HTML/CSS, JavaScript",Communication,2,0,74.51,21,Stable,2024-06-23,Semester 1
+6207,David Alvarado,2020,Mechanical,3.62,3.44,2.96,2.96,2.42,2.32,3.67,2.04,2.09,96,4,1,1,2,5,Mentor,Leader,Java,"Teamwork, Leadership",0,2,91.84,37,Improving,2024-06-05,Semester 2
+8743,Mr. Luis Armstrong,2022,Civil,3.99,3.73,2.34,3.66,3.2,3.59,3.64,2.36,3.32,76,1,2,3,2,5,Mentor,Leader,"HTML/CSS, Java",Communication,1,2,95.79,65,Declining,2024-06-09,Semester 4
+1307,Dennis Neal,2020,Civil,2.19,2.95,3.23,2.08,3.57,3.01,2.24,2.96,2.26,98,4,0,3,2,4,Course Assistant,Active Member,"SQL, HTML/CSS, Java","Leadership, Problem-solving",0,1,74.02,62,Improving,2024-05-10,Semester 1
+6270,Barry Lopez,2021,Civil,3.75,2.82,2.38,3.42,3.58,3.16,2.24,2.01,3.31,80,3,2,0,0,4,None,Participant,"SQL, HTML/CSS","Time Management, Problem-solving",3,0,82.4,72,Stable,2024-04-07,Semester 2
+5091,Alice Dougherty,2021,Civil,3.11,2.51,2.61,2.69,3.41,3.47,3.71,3.32,3.5,88,5,1,0,0,5,Course Assistant,Participant,"SQL, Python, Java","Communication, Time Management",1,1,97.78,56,Improving,2024-06-11,Semester 1
+1924,Mr. Spencer King Jr.,2021,ECE,2.74,3.22,3.45,3.86,2.8,3.31,2.57,3.93,2.11,71,5,3,3,0,2,None,Participant,Python,Time Management,1,2,71.08,31,Declining,2024-05-19,Semester 1
+5351,Dr. Patty Bird,2020,CSE,3.99,3.56,2.71,2.79,3.17,3.04,3.47,2.14,2.18,78,5,2,2,1,2,None,Leader,"HTML/CSS, SQL",Problem-solving,1,1,85.19,72,Improving,2024-01-31,Semester 3
+2693,Gregory Jones,2021,CSE,3.61,3.91,3.75,3.63,3.15,3.39,3.93,3.13,3.54,81,3,3,4,0,4,Mentor,Participant,HTML/CSS,Teamwork,2,1,98.66,67,Declining,2024-05-19,Semester 1
+1754,Andrew Todd,2021,ECE,2.57,2.8,3.5,2.68,3.11,2.36,2.63,2.44,3.15,71,5,1,3,2,2,Mentor,Leader,"Java, JavaScript",Teamwork,2,0,93.37,16,Improving,2024-01-11,Semester 4
+9572,David Neal,2019,Civil,3.92,3.7,2.74,2.63,3.8,3.76,3.15,2.55,2.37,92,2,3,1,2,2,Mentor,None,"SQL, Python","Leadership, Teamwork",3,0,90.95,59,Stable,2024-07-28,Semester 1
+3942,Yolanda Strickland,2019,ECE,2.76,2.2,2.72,3.72,2.37,2.53,2.54,3.92,2.69,71,3,3,1,1,3,Course Assistant,None,"HTML/CSS, Java",Time Management,1,0,91.62,31,Declining,2024-05-07,Semester 4
+3831,William Adams,2022,ECE,2.29,3.92,2.3,3.61,2.35,3.0,3.99,3.7,3.03,80,3,2,2,2,5,Mentor,None,JavaScript,Communication,1,1,84.3,81,Improving,2024-02-02,Semester 4
+4404,Michael Scott,2021,EEE,2.72,3.12,3.86,2.52,2.04,2.24,3.73,3.93,2.4,96,5,1,2,1,3,None,None,"HTML/CSS, Python, JavaScript","Leadership, Teamwork",1,2,94.23,44,Stable,2024-04-05,Semester 4
+9831,Travis Sanders,2019,CSE,2.32,2.46,2.63,2.58,2.53,3.29,2.54,2.89,3.73,83,5,3,3,0,2,Mentor,Leader,"Java, C++, Python",Teamwork,3,0,72.87,61,Declining,2024-06-19,Semester 1
+1770,Melanie Spencer,2019,Mechanical,3.05,3.99,2.21,3.24,2.17,3.86,2.78,2.46,3.48,88,5,1,1,2,2,Mentor,Active Member,"C++, JavaScript, HTML/CSS","Time Management, Problem-solving",3,0,99.09,90,Declining,2024-03-28,Semester 2
+2130,Austin Cain,2022,Civil,2.87,3.28,3.07,3.82,2.96,2.45,2.18,2.62,2.82,69,2,0,0,2,2,Course Assistant,Participant,"SQL, Python","Leadership, Problem-solving",0,1,93.94,77,Improving,2024-02-29,Semester 1
+7561,Mr. Jonathan Rodriguez,2021,ECE,2.82,3.12,2.79,2.33,3.47,2.78,2.76,2.53,2.84,75,4,2,2,2,5,Course Assistant,None,Python,Teamwork,2,0,89.11,80,Stable,2024-05-20,Semester 3
+6700,Lawrence Cox,2022,ECE,2.64,2.3,3.94,2.04,3.94,2.56,2.25,2.88,2.02,65,1,0,3,0,3,Course Assistant,Participant,"C++, HTML/CSS",Problem-solving,0,0,71.68,100,Stable,2024-08-04,Semester 1
+1515,Danielle Fox,2022,ECE,2.38,3.68,3.63,3.66,2.24,3.54,2.5,3.54,2.89,62,1,3,0,2,2,Course Assistant,None,"C++, JavaScript, Java",Time Management,0,1,84.44,39,Improving,2024-09-25,Semester 3
+6129,Michael Hughes,2019,ECE,3.95,2.47,2.87,2.03,3.59,3.17,2.79,2.49,3.94,97,5,3,4,0,3,Mentor,Leader,HTML/CSS,Time Management,2,2,71.8,46,Declining,2024-06-20,Semester 2
+5576,Melvin Fox,2019,ECE,2.98,2.63,3.12,3.29,2.69,3.78,3.47,2.04,2.76,68,2,0,3,2,4,None,Participant,"JavaScript, HTML/CSS, Java",Time Management,2,1,91.97,36,Declining,2024-05-12,Semester 2
+4527,Zachary Nguyen,2019,Civil,2.31,2.59,2.53,2.73,2.0,3.28,2.76,2.37,2.04,83,4,1,2,2,1,None,None,SQL,"Time Management, Teamwork",2,1,82.29,42,Improving,2024-05-12,Semester 1
+1873,Christine Donaldson,2019,CSE,3.67,2.26,3.75,2.4,2.97,2.2,3.14,3.67,3.32,93,4,2,0,1,2,None,Active Member,Java,"Communication, Leadership",0,1,86.74,54,Stable,2024-08-29,Semester 1
+6116,Erica Davies,2021,Civil,2.08,2.14,2.61,3.89,3.92,2.19,3.45,3.06,2.38,93,5,1,4,2,2,None,None,"Python, SQL, C++","Leadership, Communication",1,0,86.5,65,Stable,2024-03-25,Semester 2
+8573,Brad Hernandez,2022,EEE,3.8,3.1,3.99,3.69,2.82,3.27,3.65,2.65,2.48,94,1,3,4,2,3,Course Assistant,None,"HTML/CSS, Python",Problem-solving,0,2,74.05,39,Improving,2024-09-09,Semester 3
+3168,Ronnie Smith,2020,ECE,3.71,2.04,3.64,3.38,2.55,3.11,3.11,3.85,2.31,62,3,2,1,0,3,Course Assistant,Leader,C++,"Communication, Leadership",1,2,72.32,42,Stable,2024-08-14,Semester 2
+2249,Morgan Henry,2022,Civil,3.64,2.19,3.28,2.07,3.62,2.76,3.56,3.84,2.67,87,3,0,1,2,5,Mentor,None,C++,Problem-solving,1,1,85.07,29,Improving,2024-09-08,Semester 1
+2473,Gregory Hancock,2022,Mechanical,3.51,3.15,2.18,2.86,3.57,2.3,2.67,2.95,3.49,95,3,2,0,1,5,Course Assistant,Leader,HTML/CSS,Leadership,3,2,87.14,72,Declining,2024-03-11,Semester 2
+4774,Vincent Parker MD,2020,CSE,2.53,2.86,3.37,3.15,2.23,2.83,2.73,2.38,2.69,61,2,1,2,2,4,None,Leader,"Python, Java",Problem-solving,1,2,95.58,15,Declining,2024-05-07,Semester 1
+1646,Donna Arroyo,2020,Civil,3.85,3.74,3.64,2.03,3.39,2.22,2.9,2.05,2.42,94,1,1,4,2,3,None,None,"JavaScript, Java, Python","Time Management, Communication",2,0,71.8,26,Declining,2024-08-26,Semester 3
+4957,Edward Nguyen,2019,Mechanical,3.31,2.02,2.78,2.54,3.7,3.32,3.73,2.04,3.73,84,1,3,4,2,1,Course Assistant,None,"SQL, Python, Java",Time Management,3,2,97.79,3,Improving,2024-02-11,Semester 2
+8804,Michael Bonilla,2021,EEE,2.98,3.49,2.04,3.37,2.71,2.6,3.99,3.96,2.55,63,5,2,3,0,5,Course Assistant,Leader,C++,"Teamwork, Communication",3,2,98.82,79,Declining,2024-02-27,Semester 2
+2965,Paul Moore,2022,ECE,3.15,2.85,2.62,3.21,2.9,2.26,3.3,3.16,3.37,72,1,2,4,0,4,Mentor,Leader,"Python, SQL",Teamwork,2,0,91.81,98,Stable,2024-01-30,Semester 4
+7507,Joshua Stokes,2022,EEE,2.89,3.87,3.79,3.87,2.55,3.56,2.21,2.37,3.52,99,4,2,4,2,5,Mentor,Leader,JavaScript,Problem-solving,0,2,93.39,18,Declining,2024-02-10,Semester 4
+8951,Jennifer Smith,2021,ECE,3.7,2.98,2.28,2.39,2.06,3.53,2.03,2.54,2.83,72,1,0,1,1,5,Course Assistant,Participant,"Java, HTML/CSS","Communication, Leadership",2,1,88.35,96,Declining,2024-03-02,Semester 1
+3663,Brenda Watkins,2019,Mechanical,2.91,3.76,3.76,2.49,3.08,3.97,2.08,2.77,3.53,63,1,2,3,1,3,Course Assistant,None,HTML/CSS,"Time Management, Communication",1,1,94.9,58,Improving,2024-05-22,Semester 1
+5862,Heather Roberts,2020,Civil,3.88,3.39,2.27,2.83,2.9,2.36,3.18,3.43,2.4,89,0,2,2,2,2,None,Active Member,Python,"Problem-solving, Communication",3,2,93.73,66,Declining,2024-05-07,Semester 2
+9685,Kristen Marsh,2022,Civil,2.76,3.54,3.82,3.13,3.32,2.3,3.74,2.36,3.42,86,2,2,3,1,2,Mentor,Leader,Python,"Communication, Leadership",3,1,86.31,1,Declining,2024-04-13,Semester 4
+6649,Travis Mendoza,2020,ECE,3.18,2.95,2.82,2.16,3.2,2.49,3.09,3.24,3.12,73,0,1,1,0,3,Mentor,Leader,JavaScript,"Problem-solving, Communication",0,0,82.51,23,Improving,2024-08-31,Semester 3
+8960,Katie Oliver,2020,Mechanical,3.5,2.72,2.07,3.54,2.65,3.8,3.64,3.52,3.69,64,2,3,1,0,3,Course Assistant,None,"Java, JavaScript, Python",Time Management,0,1,91.72,78,Declining,2024-01-25,Semester 3
+1331,William Riley,2022,Civil,3.7,2.52,3.15,3.25,3.85,3.23,2.99,3.46,3.0,71,4,1,2,0,1,Mentor,Active Member,"JavaScript, Python",Time Management,3,1,71.36,45,Declining,2024-08-22,Semester 2
+5763,Amber Quinn,2019,ECE,3.38,2.51,2.14,2.6,3.1,3.53,2.23,2.67,2.79,96,4,0,1,0,3,Course Assistant,None,"Python, Java","Teamwork, Leadership",2,1,93.52,53,Declining,2024-02-02,Semester 1
+6127,Robert Williams,2021,Civil,3.45,2.63,3.07,2.42,3.37,3.6,3.78,2.71,3.94,77,0,2,3,2,5,Mentor,None,SQL,Problem-solving,2,2,70.95,53,Improving,2024-05-20,Semester 4
+8424,Tami Cooper,2020,EEE,2.9,3.9,2.43,2.6,2.22,3.57,3.56,3.83,2.89,61,3,1,1,1,4,None,Participant,"Java, Python",Teamwork,0,1,81.63,67,Improving,2024-03-09,Semester 1
+7800,Thomas Keller,2021,CSE,3.37,3.19,2.17,2.93,2.09,3.04,3.32,2.62,3.16,79,5,1,2,0,2,Course Assistant,Participant,"C++, HTML/CSS, Python","Teamwork, Time Management",2,0,70.46,80,Declining,2024-02-25,Semester 1
+7145,Thomas Carter,2020,Civil,2.7,2.64,2.28,3.41,2.57,2.49,2.14,3.23,2.68,88,0,1,0,1,1,Mentor,None,Python,"Leadership, Teamwork",3,2,80.67,43,Improving,2024-01-31,Semester 1
+2390,Susan George,2022,Civil,2.26,3.63,3.84,2.94,2.91,3.37,3.42,2.93,2.46,74,1,2,2,1,2,None,Participant,"HTML/CSS, JavaScript",Communication,3,0,80.54,60,Improving,2024-04-07,Semester 3
+3191,Donna Campbell,2021,Civil,3.15,3.02,2.81,3.43,2.21,3.11,2.14,2.6,2.92,97,3,1,4,0,5,Mentor,None,"Python, C++",Time Management,3,1,87.02,44,Declining,2024-07-13,Semester 2
+2316,Jason Hardin,2020,CSE,3.48,3.42,3.67,2.23,3.19,2.65,2.2,2.89,2.62,85,0,0,4,1,3,Course Assistant,Active Member,Java,Time Management,0,0,89.83,58,Declining,2024-02-06,Semester 3
+9155,Andre Anderson,2022,Civil,3.16,2.39,3.36,2.63,3.14,3.83,2.61,3.89,2.87,82,0,0,4,2,4,Mentor,Participant,C++,Communication,2,0,95.84,4,Improving,2024-01-16,Semester 4
+4493,Raymond Velazquez,2022,EEE,3.42,2.81,2.87,2.42,2.35,2.28,3.11,3.69,2.72,86,1,2,1,0,1,Mentor,Active Member,JavaScript,"Leadership, Teamwork",0,0,89.27,54,Stable,2024-07-08,Semester 4
+3650,Nicholas Kaiser,2020,Mechanical,3.02,3.1,2.9,2.71,2.37,3.21,3.16,3.69,2.47,92,2,3,4,2,3,Mentor,Active Member,"HTML/CSS, C++, Python","Communication, Teamwork",2,1,85.51,67,Declining,2024-08-29,Semester 1
+2153,Barbara Lambert DDS,2020,Mechanical,3.26,3.33,3.34,3.37,3.08,3.16,3.23,3.81,3.07,60,3,3,4,1,5,None,Participant,"C++, JavaScript","Teamwork, Communication",2,2,93.55,34,Improving,2024-07-11,Semester 4
+9876,Nicole Howard,2020,Civil,2.1,3.98,3.62,3.25,2.57,2.17,3.01,3.7,2.56,68,4,2,2,1,1,None,Active Member,"Java, SQL, JavaScript","Problem-solving, Teamwork",2,2,77.09,24,Declining,2024-10-08,Semester 1
+3566,Arthur Ruiz,2021,CSE,3.93,3.19,3.64,3.68,3.51,2.83,2.77,3.32,3.45,70,1,2,0,2,3,Mentor,Active Member,HTML/CSS,"Leadership, Problem-solving",3,2,98.45,69,Improving,2024-08-12,Semester 4
+4389,David Blackburn,2022,Mechanical,2.53,3.06,2.87,2.58,3.59,2.76,2.63,3.06,3.91,66,4,2,3,2,3,Course Assistant,Participant,"Python, C++","Leadership, Teamwork",1,2,80.12,89,Improving,2024-06-15,Semester 3
+1416,Michelle Stephens,2019,CSE,3.66,2.02,2.2,2.21,2.89,2.44,2.57,2.39,2.05,65,0,1,4,2,1,None,Active Member,SQL,Leadership,1,0,90.87,33,Stable,2024-08-22,Semester 4
+7620,Katherine Richardson,2019,Mechanical,3.85,2.55,2.85,3.81,3.54,2.65,2.32,2.15,3.55,84,3,2,0,1,3,Mentor,None,HTML/CSS,Time Management,3,0,89.36,14,Improving,2024-03-19,Semester 4
+8036,Aaron Hawkins,2020,Civil,3.29,3.83,3.43,2.21,2.15,3.14,2.5,2.89,3.79,69,5,0,0,2,4,Course Assistant,Leader,"C++, HTML/CSS, Python","Leadership, Time Management",3,2,93.43,9,Declining,2024-08-09,Semester 2
+6369,George Williams,2019,Mechanical,3.91,3.64,2.96,3.13,3.87,2.72,3.36,2.8,3.26,65,2,2,0,1,3,None,Leader,SQL,Leadership,1,1,90.88,14,Declining,2024-08-19,Semester 3
+6976,Tanya Cox,2022,CSE,3.77,2.88,2.38,2.07,2.05,3.99,2.48,2.78,3.59,79,3,3,0,0,3,Mentor,Participant,"Python, HTML/CSS, JavaScript",Time Management,3,2,96.11,69,Improving,2024-05-03,Semester 2
+3121,Lauren Hall,2019,CSE,3.47,2.98,2.04,3.81,3.24,2.49,3.3,2.03,3.27,79,0,3,4,0,5,Mentor,Active Member,HTML/CSS,Communication,1,1,80.12,95,Declining,2024-09-15,Semester 4
+1938,Debbie Allen,2021,CSE,3.95,3.15,2.27,3.67,3.59,3.53,3.19,2.67,2.24,69,3,1,2,2,2,Course Assistant,Leader,"Python, Java, JavaScript","Teamwork, Communication",3,0,70.19,23,Improving,2024-02-16,Semester 3
+1482,Jennifer Nguyen MD,2022,Mechanical,3.38,2.41,3.28,3.05,2.82,3.88,3.22,2.08,2.36,91,4,0,2,1,4,Mentor,Leader,Python,Time Management,2,2,85.23,60,Declining,2024-02-13,Semester 2
+6204,Eric Day,2021,CSE,2.39,3.59,3.37,3.94,2.95,2.35,3.34,2.09,3.29,78,1,3,2,1,5,Course Assistant,Active Member,JavaScript,Time Management,1,0,93.56,63,Declining,2024-05-13,Semester 1
+9083,William Rodriguez,2019,ECE,3.44,3.19,2.65,2.4,3.35,2.65,3.56,2.65,2.2,86,1,3,1,0,4,None,None,HTML/CSS,Teamwork,3,0,81.62,18,Stable,2024-04-20,Semester 2
+6667,Jennifer Cabrera,2021,EEE,2.4,2.25,3.38,2.12,2.27,3.7,2.92,2.34,2.69,78,4,1,4,0,5,None,Leader,HTML/CSS,"Teamwork, Leadership",3,1,70.44,55,Declining,2024-02-01,Semester 2
+8855,Robert Jones,2020,EEE,2.87,2.44,3.85,3.89,3.83,3.8,2.84,2.09,3.98,92,0,3,4,1,4,None,Active Member,"HTML/CSS, Java",Time Management,0,2,91.95,28,Improving,2024-05-22,Semester 3
+1738,Cameron Mcdaniel,2021,ECE,3.3,2.18,2.96,2.61,3.41,3.72,3.49,2.05,2.91,68,5,3,1,1,4,None,Active Member,"Python, HTML/CSS, C++",Problem-solving,3,1,90.94,79,Declining,2024-07-09,Semester 2
+1487,Austin Mcclain,2019,Civil,3.76,3.47,2.11,3.89,3.35,3.78,2.22,2.73,3.24,83,2,1,4,2,1,None,Leader,C++,Time Management,0,2,84.35,97,Declining,2024-10-13,Semester 2
+6733,Kimberly Rivera,2020,EEE,2.71,2.53,3.36,2.55,2.13,2.69,2.97,3.05,2.25,94,5,2,3,2,3,None,Active Member,HTML/CSS,Communication,3,0,78.65,10,Improving,2024-04-13,Semester 2
+7279,Jenny Evans,2021,CSE,3.39,2.99,3.75,3.04,3.25,2.59,3.94,3.08,2.26,82,3,3,0,1,2,Mentor,Active Member,SQL,"Leadership, Problem-solving",2,1,87.8,90,Declining,2024-04-26,Semester 4
+6229,Lisa Wright,2022,EEE,3.13,3.8,2.61,3.58,2.45,2.74,2.58,3.69,2.3,78,3,1,4,0,5,Course Assistant,Leader,JavaScript,Teamwork,1,0,71.23,41,Declining,2024-08-29,Semester 2
+1042,Heidi Vasquez,2022,EEE,2.74,2.41,3.41,3.33,3.96,2.3,2.9,3.95,3.07,67,0,3,3,0,4,Course Assistant,Leader,JavaScript,"Problem-solving, Leadership",2,2,90.01,73,Declining,2024-05-25,Semester 4
+6519,Donna Miller,2021,CSE,3.46,3.8,2.28,3.1,2.62,2.8,3.68,2.89,2.18,63,4,1,4,2,2,Course Assistant,Leader,Python,"Communication, Leadership",1,1,79.53,78,Declining,2024-04-08,Semester 1
+7946,Brian Hoffman,2021,Mechanical,2.3,3.71,2.74,2.75,2.57,2.7,3.96,3.75,2.18,88,5,3,3,1,2,None,None,"HTML/CSS, Java, Python",Teamwork,2,1,99.65,68,Stable,2024-02-21,Semester 1
+9559,Johnathan Daniel,2022,CSE,2.01,3.28,2.55,2.35,2.92,3.14,3.83,2.4,3.66,78,4,3,0,1,5,Course Assistant,None,"JavaScript, HTML/CSS, Java",Communication,1,1,79.01,82,Declining,2024-05-05,Semester 4
+8052,Robert Nguyen,2019,EEE,2.83,2.98,3.38,2.49,2.24,2.55,3.99,2.13,3.49,97,3,3,2,2,4,None,Active Member,"SQL, JavaScript",Problem-solving,1,2,71.76,41,Stable,2024-10-07,Semester 2
+3791,Veronica Owens,2021,ECE,2.11,2.72,3.27,3.91,2.1,2.58,3.28,2.15,2.39,100,1,0,4,0,5,Course Assistant,Participant,"C++, JavaScript, SQL",Time Management,2,0,70.39,67,Stable,2024-08-22,Semester 3
+7004,Mr. Patrick Torres PhD,2022,Mechanical,2.68,3.82,2.2,2.31,2.44,2.38,3.79,3.23,3.66,93,4,0,3,1,1,Mentor,Leader,HTML/CSS,"Problem-solving, Time Management",1,1,96.69,77,Declining,2024-02-09,Semester 3
+1760,Vincent Jensen,2020,EEE,2.06,3.63,2.44,3.71,2.28,2.45,2.25,2.26,2.16,67,0,0,3,1,1,Mentor,Active Member,JavaScript,Leadership,0,1,71.3,39,Declining,2024-02-09,Semester 1
+4364,Maria Rhodes,2019,CSE,3.84,2.41,3.8,2.37,2.7,2.18,3.69,3.88,3.9,82,2,1,4,2,5,Mentor,Active Member,SQL,Time Management,1,2,75.75,37,Improving,2024-03-13,Semester 1
+3699,Sherry Beck,2019,ECE,3.84,3.7,2.95,3.4,2.37,3.35,2.21,3.67,3.96,87,1,1,3,0,3,Mentor,None,SQL,Leadership,2,2,78.65,93,Improving,2024-04-14,Semester 1
+6323,David Taylor,2021,Mechanical,2.23,2.57,3.2,2.62,3.95,2.89,3.11,2.58,3.71,72,0,3,2,0,1,None,None,"Python, HTML/CSS, SQL",Communication,1,1,82.02,76,Improving,2024-02-06,Semester 2
+6782,Robert Francis,2019,EEE,3.95,2.68,3.19,3.98,2.25,3.68,3.45,2.56,3.43,97,4,2,3,1,4,None,None,"SQL, C++",Leadership,0,0,77.52,64,Improving,2024-07-23,Semester 2
+4525,Jacqueline Hatfield,2019,CSE,3.48,3.66,3.0,2.05,2.36,3.21,2.65,2.61,3.25,64,5,3,3,0,3,None,None,"SQL, C++","Time Management, Communication",0,1,96.4,16,Stable,2024-08-01,Semester 4
+4627,Cynthia James,2021,Mechanical,2.89,2.07,2.35,3.32,3.56,3.77,2.33,2.86,2.62,84,3,0,4,2,4,None,None,"SQL, Java",Leadership,2,1,87.73,49,Declining,2024-02-12,Semester 3
+9295,Richard Tucker,2021,EEE,2.12,3.18,2.26,2.73,3.62,3.17,3.53,3.25,2.76,87,2,2,3,1,1,None,Leader,Java,"Time Management, Communication",0,1,73.43,22,Improving,2024-06-19,Semester 3
+5952,Mary Green,2019,Mechanical,3.32,2.84,3.03,2.84,2.04,2.94,2.04,2.63,3.14,80,4,0,3,0,2,Course Assistant,None,"JavaScript, C++, Java","Problem-solving, Leadership",1,1,89.06,10,Declining,2024-09-09,Semester 2
+7446,Deanna Everett,2021,EEE,2.1,3.99,2.8,2.45,3.49,2.18,3.69,2.19,2.67,64,4,3,3,0,3,Mentor,Participant,"C++, HTML/CSS, JavaScript",Leadership,3,1,88.75,59,Declining,2024-05-14,Semester 2
+7364,Patricia Jackson,2019,Civil,3.73,3.15,2.43,3.92,3.48,2.93,3.87,3.07,3.23,87,4,0,4,0,3,Course Assistant,Leader,Java,"Leadership, Time Management",2,0,89.02,53,Stable,2024-02-15,Semester 3
+9186,Rebecca Mckee,2020,EEE,3.37,2.47,2.48,2.3,2.06,3.59,2.62,2.97,3.98,87,5,0,1,0,3,Mentor,Active Member,"C++, SQL",Communication,3,0,71.66,11,Stable,2024-09-17,Semester 3
+8291,Adam Harris,2019,Mechanical,3.79,3.34,3.77,2.79,3.68,3.69,2.47,3.14,3.0,67,4,2,3,0,2,None,Active Member,"C++, SQL","Teamwork, Leadership",1,0,73.2,28,Stable,2024-03-24,Semester 4
+9785,Abigail Ruiz,2022,EEE,3.73,2.11,3.07,3.4,2.23,3.09,2.95,2.49,2.56,69,2,3,2,1,1,None,Active Member,"JavaScript, Python, Java","Time Management, Leadership",2,2,98.75,47,Declining,2024-02-10,Semester 1
+9947,Timothy Perry,2020,Mechanical,2.78,3.82,2.79,3.96,2.51,2.18,3.65,2.47,2.42,70,3,2,3,0,3,Mentor,None,"JavaScript, HTML/CSS","Leadership, Communication",1,2,77.83,9,Stable,2024-05-03,Semester 4
+5748,Kelly Gonzalez,2021,Mechanical,3.39,3.52,3.28,2.37,2.89,3.28,2.01,2.4,2.61,96,0,0,1,0,5,None,Leader,"JavaScript, HTML/CSS, C++","Leadership, Teamwork",2,0,90.62,42,Stable,2024-07-18,Semester 2
+1715,Grant Estrada,2019,Mechanical,2.74,2.79,2.75,3.67,3.14,2.04,2.05,3.12,3.22,74,0,3,1,1,2,Mentor,None,"HTML/CSS, SQL, C++",Communication,2,0,98.42,16,Improving,2024-01-24,Semester 4
+2979,Michaela Gregory,2022,Mechanical,2.24,3.43,2.38,3.72,3.56,2.58,2.99,2.26,3.71,98,1,2,1,1,2,Course Assistant,Leader,C++,"Teamwork, Leadership",1,1,87.49,83,Stable,2024-01-17,Semester 1
+8814,Brian Russell,2019,Mechanical,2.27,2.65,3.39,3.37,3.43,3.42,3.47,2.51,2.19,63,0,2,1,1,3,None,Active Member,C++,"Problem-solving, Leadership",2,0,99.04,72,Improving,2024-05-04,Semester 2
+8880,Linda Mckinney,2021,ECE,3.01,3.86,3.76,2.26,2.63,3.06,2.28,2.23,2.09,68,3,2,2,1,3,Course Assistant,Participant,"C++, HTML/CSS, Java","Leadership, Teamwork",3,0,75.67,7,Improving,2024-06-18,Semester 2
+2552,Samantha Martinez,2019,Mechanical,2.52,3.41,2.87,3.99,3.85,2.08,2.71,3.42,2.97,91,0,1,0,1,1,Mentor,Participant,Java,"Time Management, Teamwork",0,2,93.01,24,Stable,2024-06-24,Semester 1
+2040,Robin Gill,2020,Mechanical,3.35,3.77,2.05,3.36,3.36,2.79,3.18,3.9,3.67,69,0,0,3,2,4,Course Assistant,Participant,"JavaScript, Python, C++",Time Management,3,1,98.42,94,Declining,2024-03-08,Semester 2
+8690,April Morrison,2020,CSE,3.6,2.57,3.6,3.49,3.09,3.2,2.19,2.51,2.48,85,0,0,1,0,4,Course Assistant,Participant,"JavaScript, Java, Python","Leadership, Time Management",2,2,88.11,46,Declining,2024-04-28,Semester 1
+1161,Monica Lam,2021,Civil,2.4,2.89,2.78,2.54,3.2,2.18,2.85,2.74,2.37,100,3,0,0,2,3,Course Assistant,Leader,"JavaScript, Java, HTML/CSS",Problem-solving,3,1,72.38,62,Stable,2024-06-24,Semester 2
+2455,James Price,2020,EEE,3.68,3.05,2.59,2.1,2.15,2.09,2.22,2.85,2.19,96,2,2,2,2,1,None,Active Member,JavaScript,"Teamwork, Time Management",3,0,72.5,91,Stable,2024-06-29,Semester 3
+4220,Miranda Lawrence,2022,Mechanical,3.25,2.53,3.93,3.74,2.37,2.37,3.49,3.21,3.74,66,3,0,0,1,1,Mentor,Leader,"HTML/CSS, JavaScript, SQL","Problem-solving, Time Management",3,1,72.63,18,Improving,2024-02-13,Semester 2
+6605,Travis Perry,2019,CSE,3.39,2.38,2.05,2.96,2.29,2.48,3.68,3.72,3.08,65,2,3,1,1,4,Mentor,Active Member,Java,"Leadership, Time Management",0,1,87.56,26,Stable,2024-01-20,Semester 4
+7168,Marvin Pacheco,2019,EEE,2.02,3.26,3.43,3.96,3.7,3.47,3.19,3.11,2.58,91,3,3,4,2,5,None,None,JavaScript,Time Management,0,1,87.29,71,Improving,2024-01-13,Semester 3
+3877,Xavier Williams,2022,Mechanical,2.23,3.25,3.29,2.9,2.87,2.32,3.45,2.94,2.88,92,1,2,4,2,4,Mentor,Participant,"JavaScript, HTML/CSS, SQL","Leadership, Teamwork",1,1,90.72,12,Declining,2024-09-17,Semester 4
+3241,Jonathan Davis,2020,ECE,2.4,3.21,2.2,2.83,3.99,2.61,2.42,2.09,2.04,76,2,1,1,2,1,Mentor,Participant,"Python, SQL",Communication,1,1,77.73,44,Stable,2024-10-05,Semester 1
+9786,Kyle Hess,2021,ECE,3.71,3.75,3.21,2.21,2.1,3.89,3.6,3.93,3.51,66,4,0,4,0,5,Mentor,Leader,"Python, Java, C++",Problem-solving,3,2,84.95,13,Improving,2024-01-05,Semester 3
+5936,Riley Bond,2021,ECE,2.25,2.4,3.94,3.54,2.01,3.67,2.95,2.57,2.34,77,2,3,2,2,2,Mentor,None,Java,"Leadership, Time Management",3,2,93.84,47,Improving,2024-01-19,Semester 4
+1501,Larry Trevino,2020,CSE,3.44,3.03,2.14,2.68,2.8,3.54,2.87,2.79,2.07,69,4,0,4,1,4,Course Assistant,Participant,"JavaScript, C++, SQL",Problem-solving,1,2,82.12,83,Improving,2024-10-13,Semester 4
+5105,Christopher Clements,2021,Mechanical,3.55,3.76,2.17,3.07,2.78,3.44,3.76,3.04,3.08,73,0,2,4,1,2,Mentor,Active Member,"SQL, C++, Java","Leadership, Communication",0,1,77.79,65,Stable,2024-03-12,Semester 1
+8997,Brian Calderon,2019,CSE,2.9,3.14,2.01,2.68,2.47,3.49,3.16,3.43,3.88,94,4,1,2,1,3,None,Leader,"HTML/CSS, SQL, Java",Problem-solving,1,1,83.63,19,Declining,2024-01-22,Semester 4
+6340,Gerald Murray,2022,CSE,2.18,2.85,2.26,2.43,2.16,3.35,2.81,3.12,3.56,76,4,3,3,1,4,None,None,Java,Leadership,3,0,99.04,66,Declining,2024-04-01,Semester 1
+1077,Emily Smith,2020,Mechanical,2.95,3.49,3.89,2.74,3.9,3.2,2.82,2.24,3.14,62,4,1,0,1,3,Course Assistant,Participant,"HTML/CSS, Python",Teamwork,3,0,98.1,40,Stable,2024-02-26,Semester 2
+8153,Jessica Smith,2020,Mechanical,2.0,3.1,2.14,2.09,2.96,2.62,2.9,2.68,2.75,98,1,1,4,2,4,Course Assistant,None,JavaScript,"Communication, Leadership",3,0,97.01,44,Declining,2024-09-19,Semester 1
+1854,Erik Walker,2022,EEE,3.29,3.73,3.41,3.14,3.59,3.41,3.12,2.25,3.12,72,4,0,4,2,2,Course Assistant,Active Member,JavaScript,Communication,2,0,77.36,91,Declining,2024-01-20,Semester 4
+3984,Paula Velasquez,2019,Civil,3.21,2.8,2.09,3.72,2.05,2.87,2.83,3.72,2.63,76,0,0,0,2,2,Course Assistant,Leader,C++,Teamwork,2,1,90.36,8,Declining,2024-08-02,Semester 3
+6169,Veronica Peters,2020,CSE,3.43,2.6,2.2,2.28,3.79,2.52,3.88,3.8,2.1,75,4,1,3,2,5,Course Assistant,Active Member,"Python, C++","Time Management, Leadership",0,1,70.87,82,Improving,2024-07-17,Semester 1
+3731,Stephanie Velasquez,2021,Civil,3.93,3.35,2.49,3.11,3.57,2.61,2.81,2.17,3.27,73,1,2,4,0,2,None,None,"HTML/CSS, Python, SQL","Time Management, Problem-solving",1,0,71.81,62,Stable,2024-01-11,Semester 3
+4301,Denise Martin,2022,EEE,3.68,2.43,3.68,2.56,2.32,3.07,2.14,2.18,3.4,68,5,2,3,0,5,None,Participant,"C++, JavaScript, HTML/CSS","Teamwork, Problem-solving",2,0,83.79,77,Stable,2024-06-11,Semester 1
+6610,Ariana Lester,2020,CSE,3.22,2.01,2.02,2.35,3.11,3.39,2.98,2.79,2.16,64,4,0,3,2,1,Course Assistant,None,"C++, HTML/CSS, Java",Communication,3,1,98.09,57,Improving,2024-06-21,Semester 2
+3935,Howard Lewis,2019,EEE,3.36,3.42,2.38,3.63,3.25,3.62,2.44,3.96,3.93,62,2,3,4,0,1,Mentor,None,C++,"Teamwork, Time Management",1,0,87.64,96,Improving,2024-02-24,Semester 2
+5357,Jodi Brown,2021,Civil,3.71,3.76,3.46,2.55,3.7,2.05,3.94,3.36,3.23,95,3,0,3,2,1,Course Assistant,None,"C++, Python","Leadership, Problem-solving",0,2,76.74,36,Stable,2024-07-17,Semester 4
+7588,Jeffrey Golden,2021,CSE,2.78,2.67,3.76,3.62,3.98,2.45,3.38,3.92,3.83,72,1,2,2,0,1,Mentor,None,"Python, SQL","Problem-solving, Teamwork",0,1,77.15,44,Improving,2024-08-04,Semester 3
+9639,Jonathan Mccarthy,2020,CSE,3.55,3.24,3.53,3.25,3.16,2.17,2.12,2.07,2.63,64,1,0,3,0,3,None,None,Python,Time Management,0,1,95.5,52,Improving,2024-09-20,Semester 4
+9854,Bethany Bennett,2020,Civil,3.57,3.25,2.91,2.93,2.86,3.24,2.2,3.3,3.35,61,3,2,4,0,1,Mentor,Active Member,"JavaScript, Python, Java",Time Management,2,1,82.63,93,Declining,2024-09-28,Semester 4
+8752,Sarah Flores,2020,ECE,2.28,2.09,2.26,3.17,3.03,3.3,2.72,3.17,3.08,69,1,3,2,2,3,Course Assistant,Participant,SQL,Communication,1,2,94.58,72,Improving,2024-05-04,Semester 4
+3977,Matthew Carroll,2021,ECE,3.95,3.28,2.4,2.14,2.38,2.95,3.38,2.93,3.38,97,4,2,4,1,4,Course Assistant,Leader,HTML/CSS,Leadership,1,0,89.16,89,Improving,2024-02-18,Semester 4
+1051,Debra Randall,2020,ECE,2.96,3.54,3.63,3.61,2.75,2.8,3.65,2.01,2.02,82,0,0,1,1,4,Mentor,Participant,Python,Teamwork,2,0,76.57,34,Declining,2024-07-04,Semester 2
+4620,Fred Turner,2021,Civil,2.49,2.39,2.35,2.52,2.2,3.66,2.27,3.31,3.77,81,1,2,3,0,3,Course Assistant,Leader,"SQL, HTML/CSS, Python",Teamwork,1,0,75.75,49,Declining,2024-07-29,Semester 3
+3460,Lisa Smith,2021,Civil,2.86,3.27,3.84,3.53,3.17,3.71,2.59,2.3,2.49,100,2,1,4,2,4,Mentor,Active Member,"JavaScript, SQL",Teamwork,3,2,92.53,48,Stable,2024-01-09,Semester 4
+9447,Cindy Turner,2020,EEE,3.42,3.05,2.97,3.91,2.95,3.16,3.28,3.58,3.3,73,1,1,3,0,4,Mentor,Participant,"HTML/CSS, SQL",Problem-solving,2,2,72.54,97,Improving,2024-01-29,Semester 3
+5836,Sean Howell,2022,Civil,2.7,3.17,2.93,3.24,2.85,2.94,2.82,3.61,2.63,84,0,1,3,0,3,None,Active Member,"Python, C++",Problem-solving,1,0,73.56,47,Improving,2024-07-16,Semester 2
+9099,Dr. Jennifer Decker,2021,ECE,3.35,2.5,3.49,3.54,3.69,2.38,3.21,2.28,3.71,94,2,0,2,1,3,Course Assistant,None,"JavaScript, Python, HTML/CSS",Leadership,1,0,91.7,27,Stable,2024-10-11,Semester 2
+9804,Joshua Kane,2022,Mechanical,2.68,2.17,3.69,2.86,3.88,2.84,2.88,3.71,2.06,68,4,1,2,2,1,Course Assistant,Participant,"Java, HTML/CSS","Leadership, Problem-solving",2,2,70.7,5,Improving,2024-03-08,Semester 2
+6464,Nicole Brown,2021,Civil,3.26,3.21,3.22,3.73,3.96,2.41,2.78,3.07,2.38,66,2,3,2,0,2,Mentor,Leader,JavaScript,"Communication, Teamwork",1,0,97.34,50,Stable,2024-04-04,Semester 2
+9256,Karen Gordon,2020,EEE,3.32,2.14,2.11,3.04,2.34,3.72,2.82,2.31,2.22,94,3,3,0,1,2,Mentor,Leader,"HTML/CSS, JavaScript",Time Management,2,2,76.09,92,Declining,2024-02-29,Semester 4
+4538,Nicole Rowe,2021,ECE,2.01,2.29,2.13,2.8,3.62,3.05,3.82,3.76,2.92,96,0,0,2,2,4,Course Assistant,Participant,"SQL, Java","Teamwork, Time Management",3,1,81.54,85,Improving,2024-05-04,Semester 1
+6808,Sean Nash,2022,CSE,2.48,3.74,2.55,3.26,2.58,3.83,3.4,3.44,2.43,91,3,0,2,0,1,None,Participant,"HTML/CSS, Java","Teamwork, Communication",3,0,72.2,89,Declining,2024-06-26,Semester 4
+3830,Nicole Maddox,2022,EEE,3.49,3.71,2.79,2.02,2.23,3.83,2.65,3.5,2.97,64,0,1,3,0,4,Course Assistant,Leader,Python,Teamwork,2,0,86.04,51,Improving,2024-05-17,Semester 1
+5837,Mitchell Nguyen,2019,EEE,2.31,2.72,2.43,2.07,3.35,2.43,3.39,3.67,3.62,66,3,2,3,0,5,Mentor,Active Member,"Java, JavaScript","Teamwork, Time Management",0,0,82.65,2,Stable,2024-09-11,Semester 2
+8222,Cynthia Burke,2019,ECE,3.92,2.19,3.67,3.33,3.45,2.09,3.03,3.63,2.65,100,1,1,4,1,4,Mentor,Leader,Python,"Problem-solving, Teamwork",0,1,89.62,2,Stable,2024-05-08,Semester 2
+2126,Kevin Watson,2022,ECE,2.13,3.63,3.3,2.74,2.13,2.44,2.6,3.2,3.97,66,5,1,2,0,5,Course Assistant,None,"JavaScript, Java, C++",Problem-solving,3,0,80.05,78,Declining,2024-01-30,Semester 4
+2132,Sarah Lopez,2022,Civil,3.28,2.46,3.17,3.98,2.47,3.23,3.79,2.62,3.48,75,4,0,0,0,3,Course Assistant,Participant,Java,"Teamwork, Communication",1,2,87.94,57,Declining,2024-01-10,Semester 3
+9397,Joyce Gomez,2020,EEE,2.64,3.57,2.08,3.58,2.83,3.63,3.5,2.46,3.47,81,1,1,4,0,2,None,Leader,"HTML/CSS, SQL, C++",Leadership,0,0,96.1,9,Improving,2024-04-27,Semester 1
+9993,Anthony Johnson,2020,ECE,2.25,2.35,3.1,3.59,2.41,3.01,2.85,2.93,2.33,72,1,3,1,2,2,Course Assistant,Participant,"HTML/CSS, Java, C++","Communication, Problem-solving",3,1,75.03,57,Stable,2024-02-14,Semester 4
+1622,Sabrina Skinner,2020,Mechanical,2.04,2.76,3.71,3.52,3.84,3.19,2.31,3.45,2.51,89,2,3,2,1,5,None,None,C++,Leadership,1,0,97.48,1,Improving,2024-10-13,Semester 3
+2214,Brianna Norman,2022,Mechanical,3.85,3.88,3.94,2.75,2.98,3.28,3.18,2.82,2.08,67,3,1,1,1,3,None,Participant,"JavaScript, HTML/CSS, C++",Leadership,3,2,77.4,62,Improving,2024-06-26,Semester 3
+4024,Tammy Potter,2019,ECE,2.52,2.91,3.36,2.51,3.2,3.9,3.68,2.02,3.54,84,3,0,4,0,4,Mentor,None,"JavaScript, C++","Time Management, Problem-solving",3,2,96.08,14,Declining,2024-05-15,Semester 3
+7959,Rhonda Gonzales,2020,EEE,3.5,3.86,2.8,2.62,3.97,3.63,2.0,2.14,3.39,93,3,2,3,0,2,Course Assistant,Leader,"Java, JavaScript, HTML/CSS",Time Management,0,1,87.01,28,Improving,2024-07-01,Semester 2
+9795,Richard Barrett,2019,ECE,3.62,2.38,3.97,3.74,2.88,3.83,2.22,3.27,2.16,65,3,0,2,0,3,Mentor,Leader,"HTML/CSS, Python",Communication,2,0,89.96,6,Improving,2024-05-05,Semester 2
+2415,Heidi Gomez MD,2019,Mechanical,3.21,3.97,3.52,3.86,2.95,2.67,2.86,2.74,3.78,80,1,2,3,1,5,Mentor,Participant,"Python, JavaScript","Leadership, Teamwork",0,2,73.69,68,Stable,2024-07-30,Semester 2
+5024,John Sullivan,2021,Mechanical,3.24,3.32,2.95,2.83,2.38,3.97,3.92,3.63,2.03,83,0,2,3,0,5,Course Assistant,None,"SQL, Python, C++","Leadership, Communication",3,1,88.22,92,Improving,2024-07-27,Semester 1
+9344,Michael Wright,2020,Mechanical,3.59,2.6,3.35,3.1,3.75,2.34,2.89,2.23,3.33,75,1,1,1,2,1,Mentor,None,"Python, Java, C++","Problem-solving, Teamwork",2,2,84.29,86,Improving,2024-08-10,Semester 2
+6216,Jason Allen,2022,CSE,3.59,2.67,2.45,3.15,3.85,2.13,2.69,3.82,3.49,84,5,3,1,0,3,Mentor,Participant,Python,Problem-solving,1,2,98.26,74,Stable,2024-07-03,Semester 2
+5236,Caitlyn Evans,2021,Mechanical,3.15,2.0,2.12,3.07,3.69,3.96,2.64,2.73,3.36,68,4,1,0,1,1,None,None,"Java, C++",Leadership,3,0,88.04,19,Declining,2024-08-12,Semester 1
+8324,Timothy Foster,2021,EEE,3.0,3.38,2.55,3.7,3.15,3.26,2.43,2.58,3.93,63,2,1,1,2,2,None,Active Member,HTML/CSS,"Problem-solving, Teamwork",0,2,81.77,55,Declining,2024-01-05,Semester 4
+4180,Sharon Watkins,2021,Mechanical,2.78,3.06,2.57,3.39,2.39,3.71,2.79,2.26,3.5,97,0,2,3,2,2,None,Leader,"JavaScript, HTML/CSS","Teamwork, Time Management",1,2,75.87,84,Improving,2024-04-29,Semester 3
+9952,Cheryl White,2019,ECE,2.75,3.97,3.36,2.34,2.11,2.71,2.95,3.89,2.23,92,5,2,4,1,2,None,None,Python,Teamwork,3,1,79.08,77,Improving,2024-01-12,Semester 4
+3956,Stephanie Gould,2019,Mechanical,3.73,3.3,2.55,3.31,2.73,2.24,2.17,2.98,3.34,92,1,0,4,2,5,Course Assistant,Participant,"JavaScript, Python, Java","Leadership, Time Management",2,2,73.76,42,Improving,2024-02-02,Semester 2
+6368,Justin Nelson,2022,CSE,2.79,3.63,3.57,3.06,2.13,3.67,3.08,3.64,3.3,73,5,0,1,2,2,Mentor,None,"Python, JavaScript",Time Management,1,2,74.84,72,Stable,2024-06-20,Semester 1
+8871,Gregory Smith,2019,CSE,3.01,2.73,3.09,2.85,3.89,2.0,2.6,3.89,3.04,78,5,3,1,2,4,None,Participant,"C++, SQL, Java",Communication,1,0,75.64,39,Improving,2024-08-30,Semester 2
+2487,Gina Walker,2020,Civil,2.72,2.26,3.24,2.15,2.51,2.76,3.81,2.8,2.17,76,5,3,1,2,2,Mentor,Participant,"JavaScript, Java, C++",Leadership,1,1,99.77,56,Stable,2024-09-09,Semester 1
+2762,Jacqueline Lowe,2020,CSE,2.54,3.06,3.37,2.81,2.66,2.18,3.82,3.56,2.29,74,2,0,0,1,2,Course Assistant,Active Member,Java,"Time Management, Leadership",0,2,80.47,74,Stable,2024-03-14,Semester 3
+7085,Patrick May,2019,CSE,2.34,3.89,2.78,2.69,3.48,3.94,3.06,3.19,3.7,90,4,1,2,0,5,None,Leader,"Java, JavaScript, HTML/CSS","Communication, Problem-solving",1,2,88.26,91,Stable,2024-09-02,Semester 2
+8626,Tammy Mclaughlin,2022,EEE,3.6,3.0,2.55,2.86,3.88,3.76,3.63,2.61,3.72,79,3,2,0,2,1,Mentor,Leader,Java,Communication,2,2,97.89,2,Stable,2024-06-02,Semester 2
+8301,Susan Stephens,2022,Mechanical,3.03,4.0,3.78,3.4,2.81,3.23,3.82,3.49,3.43,94,5,2,1,2,5,None,Active Member,"HTML/CSS, Java, SQL",Communication,2,0,85.41,7,Stable,2024-06-20,Semester 4
+9446,David Martinez,2022,ECE,2.75,2.23,3.83,2.5,3.08,3.53,2.24,2.6,2.59,73,0,3,1,1,5,Mentor,None,"HTML/CSS, Python, C++",Time Management,3,1,78.95,14,Improving,2024-09-21,Semester 3
+7319,Melanie Sullivan,2020,Mechanical,2.71,2.2,2.98,2.17,3.03,2.31,2.25,2.97,2.31,76,1,3,3,1,3,Course Assistant,None,SQL,"Communication, Leadership",3,0,74.2,96,Stable,2024-01-31,Semester 1
+3503,Allen Avery,2021,ECE,2.22,2.57,2.27,2.84,2.66,2.06,3.33,3.9,3.92,77,0,3,3,2,4,None,Leader,"HTML/CSS, SQL","Teamwork, Communication",0,0,73.78,45,Declining,2024-07-05,Semester 1
+6716,Angela Ramirez,2020,CSE,3.36,2.68,3.95,3.47,2.87,2.58,2.97,3.52,2.5,69,5,1,1,1,1,Course Assistant,Leader,"HTML/CSS, Java, JavaScript",Time Management,1,0,99.78,76,Declining,2024-02-27,Semester 2
+2297,John Ayala,2020,CSE,2.26,2.08,3.98,3.86,2.85,3.23,2.18,2.1,2.81,79,5,1,1,1,4,Course Assistant,Active Member,"HTML/CSS, Python, C++",Problem-solving,2,1,98.29,92,Stable,2024-01-10,Semester 2
+7429,Alyssa Munoz,2021,CSE,2.36,2.0,3.32,2.64,2.57,2.56,3.21,2.86,2.5,91,2,2,2,0,1,None,Active Member,"SQL, Java, C++","Problem-solving, Time Management",1,2,78.28,75,Stable,2024-08-10,Semester 1
+4545,Gordon Macdonald,2019,ECE,3.26,3.2,2.08,3.94,3.77,3.63,2.39,2.89,2.2,94,4,2,2,2,4,Mentor,Leader,Java,Leadership,2,2,99.25,47,Stable,2024-07-11,Semester 1
+7533,Michael Gonzalez,2022,CSE,2.97,3.05,3.9,3.58,2.33,2.55,3.93,2.58,3.91,63,5,1,3,1,5,None,Active Member,HTML/CSS,"Time Management, Leadership",3,2,78.14,24,Improving,2024-05-27,Semester 2
+6303,Jay Perez,2020,Civil,3.39,3.76,3.58,2.91,3.42,3.05,2.61,2.44,3.42,95,0,1,1,0,5,Mentor,Participant,JavaScript,Problem-solving,1,1,96.2,7,Declining,2024-02-17,Semester 2
+3510,Daniel Melendez,2020,Civil,2.23,3.3,3.27,3.94,2.65,3.89,3.77,2.53,2.27,99,2,2,0,2,1,Course Assistant,Leader,"C++, Java, JavaScript",Time Management,0,2,92.37,49,Declining,2024-05-21,Semester 3
+1717,Elizabeth Newton,2020,Mechanical,2.44,2.54,3.16,3.62,3.51,2.31,2.46,3.45,2.74,90,0,3,1,1,2,Mentor,Leader,"HTML/CSS, Java, C++",Problem-solving,1,0,94.52,88,Declining,2024-05-04,Semester 2
+6076,Mr. Kenneth Glass PhD,2019,ECE,2.14,2.49,3.82,3.94,2.2,3.05,3.45,3.62,3.21,84,3,0,0,0,1,Mentor,Leader,C++,Time Management,0,0,98.73,14,Declining,2024-02-16,Semester 3
+8070,Sarah Peterson,2019,ECE,2.28,3.52,3.78,3.63,2.61,2.96,2.49,3.09,2.53,94,0,0,0,0,5,Course Assistant,Active Member,"HTML/CSS, Java, Python",Communication,1,1,81.56,46,Declining,2024-03-12,Semester 3
+1442,Jennifer Rodriguez,2020,Mechanical,3.37,3.43,3.8,2.98,3.98,2.45,3.91,2.56,2.15,81,0,2,0,0,5,Mentor,Leader,"SQL, C++",Leadership,1,2,90.61,80,Stable,2024-01-18,Semester 3
+2901,Victoria Martin,2019,EEE,3.83,3.32,3.87,3.62,3.42,2.15,2.0,3.87,2.3,69,2,1,3,1,4,Mentor,Active Member,"HTML/CSS, C++, Java",Problem-solving,1,0,93.03,46,Stable,2024-09-23,Semester 4
+5725,Judith Ortiz,2022,Mechanical,3.39,2.83,3.59,2.67,3.6,3.31,2.49,2.84,2.99,94,3,1,3,0,5,None,None,"SQL, Java, Python",Problem-solving,0,0,99.82,3,Stable,2024-01-25,Semester 4
+2112,Jacob Bishop,2020,CSE,2.12,2.7,3.7,3.73,3.64,2.59,2.29,3.71,3.94,86,1,1,1,0,2,Mentor,Leader,"JavaScript, Python","Problem-solving, Communication",0,2,87.45,62,Declining,2024-09-11,Semester 2
+3604,Jason Kerr,2019,ECE,2.73,2.16,2.15,3.14,3.63,2.3,2.36,3.49,3.5,79,3,3,2,1,1,Course Assistant,Active Member,Python,Time Management,1,2,74.81,51,Stable,2024-01-21,Semester 4
+3674,Brianna Sherman,2021,Civil,3.0,3.42,2.85,2.31,3.95,3.04,3.96,2.25,2.42,99,0,1,3,0,5,None,Active Member,"HTML/CSS, JavaScript, C++","Leadership, Teamwork",0,1,89.4,25,Stable,2024-01-02,Semester 1
+4194,Kelsey Sparks,2019,CSE,2.73,3.56,2.67,2.48,2.33,2.21,2.42,2.02,3.82,72,4,1,0,0,3,Mentor,Active Member,"HTML/CSS, Python, SQL","Communication, Problem-solving",0,1,92.55,51,Declining,2024-07-08,Semester 2
+1687,Marc Thompson,2021,Mechanical,3.45,3.95,3.41,2.19,2.81,3.48,2.2,3.61,2.3,97,3,3,4,0,3,Mentor,Leader,"HTML/CSS, Python, SQL",Teamwork,1,2,74.83,65,Declining,2024-09-15,Semester 3
+1312,Xavier Smith,2022,ECE,2.68,2.72,3.71,2.86,3.78,3.55,2.78,2.42,3.22,64,1,3,0,0,2,Course Assistant,Active Member,"Python, HTML/CSS","Teamwork, Problem-solving",1,0,78.4,47,Stable,2024-01-01,Semester 1
+7198,Laura Trevino,2019,ECE,3.42,2.92,3.97,3.96,3.53,2.88,3.85,3.88,3.94,91,0,2,2,1,4,None,Leader,"C++, SQL","Problem-solving, Communication",3,2,83.5,88,Improving,2024-05-01,Semester 1
+3554,Jessica Holmes,2020,Civil,2.02,3.71,2.58,2.32,2.8,2.15,2.78,2.92,2.19,89,3,3,0,0,2,None,Active Member,"HTML/CSS, Java","Problem-solving, Communication",2,1,99.89,63,Improving,2024-08-26,Semester 4
+3536,Madison Adams,2019,EEE,2.91,3.09,3.9,2.29,2.43,3.14,3.98,3.55,2.12,83,3,3,1,0,2,Mentor,None,"C++, Java",Teamwork,0,1,82.15,39,Declining,2024-06-28,Semester 4
+9488,Justin Jenkins,2022,Civil,2.43,3.79,2.37,2.11,3.79,2.86,3.93,2.59,2.4,86,3,3,4,2,2,None,None,"JavaScript, SQL","Communication, Teamwork",0,2,90.04,79,Improving,2024-02-25,Semester 3
+7897,Jonathan Bell,2021,CSE,2.3,2.92,2.29,3.73,2.23,3.94,2.81,3.04,2.01,88,1,3,4,0,1,Mentor,Leader,"JavaScript, SQL",Time Management,3,0,80.44,25,Declining,2024-06-13,Semester 1
+8840,Christopher Arroyo,2021,EEE,2.03,3.79,3.0,3.74,3.4,3.3,2.91,2.82,2.7,94,3,2,0,0,4,Course Assistant,Participant,SQL,Time Management,3,1,78.55,85,Declining,2024-10-03,Semester 4
+6964,Mary Schmidt,2021,Civil,3.88,3.81,2.2,2.18,3.67,2.18,2.03,3.86,2.21,99,4,0,3,2,5,Mentor,Participant,"Java, JavaScript","Time Management, Leadership",0,0,95.69,16,Stable,2024-05-05,Semester 4
+6110,Rachel Williams,2022,Mechanical,2.02,2.75,2.45,2.57,3.76,2.53,3.68,3.59,2.83,75,0,3,0,0,1,Mentor,Participant,"JavaScript, SQL, C++","Teamwork, Leadership",1,2,99.2,25,Declining,2024-09-13,Semester 4
+9828,Sean Kemp,2019,Civil,2.86,3.88,2.78,3.46,2.81,2.64,2.32,2.46,3.42,68,4,0,4,1,3,None,Leader,"Java, Python",Communication,3,0,88.87,76,Improving,2024-08-12,Semester 1
+7427,Charlene Patterson,2019,Civil,2.76,3.48,2.26,2.91,3.26,2.72,2.48,3.8,2.59,94,1,3,2,2,1,Course Assistant,Active Member,JavaScript,Time Management,0,0,83.77,77,Improving,2024-09-22,Semester 1
+2658,Timothy Gonzalez,2020,EEE,2.52,2.36,2.15,3.69,3.83,2.42,2.2,3.59,2.83,91,5,0,1,2,4,Course Assistant,Participant,"HTML/CSS, Java, SQL","Communication, Teamwork",0,0,99.28,45,Stable,2024-10-11,Semester 1
+4085,Kyle Bender,2020,Civil,3.48,3.85,2.39,2.06,2.05,3.02,2.3,3.73,2.23,73,0,2,1,0,1,None,Leader,"C++, HTML/CSS",Communication,2,2,86.54,38,Stable,2024-07-04,Semester 4
+1422,Ann Roberson,2022,Civil,3.89,3.84,2.5,2.4,3.69,3.43,3.92,2.21,3.59,97,2,1,1,2,4,Course Assistant,None,"SQL, C++","Time Management, Communication",3,1,75.99,46,Stable,2024-07-07,Semester 1
+5303,Katherine Montoya,2022,ECE,3.78,3.92,2.51,2.82,3.21,3.75,3.9,3.06,2.8,67,1,2,3,0,3,Mentor,Active Member,JavaScript,"Problem-solving, Teamwork",2,0,70.29,89,Improving,2024-06-04,Semester 3
+5913,Felicia Davis,2020,Mechanical,3.13,2.64,2.47,2.13,2.57,2.42,2.43,3.12,3.43,64,4,3,3,1,3,Mentor,Leader,HTML/CSS,"Communication, Problem-solving",3,0,73.72,22,Declining,2024-04-16,Semester 3
+4312,Amber Mendoza,2022,ECE,3.15,2.57,3.29,3.71,3.98,3.82,2.57,3.68,2.81,94,4,0,2,2,1,Mentor,None,HTML/CSS,"Problem-solving, Time Management",2,1,72.39,100,Stable,2024-01-27,Semester 4
+2563,Nicholas Zhang,2019,Mechanical,2.6,3.97,2.99,3.28,3.82,3.69,3.88,2.21,2.45,60,1,0,2,2,4,Mentor,Leader,Java,"Time Management, Communication",0,1,96.5,6,Improving,2024-08-13,Semester 1
+7656,Jenna Fuller,2021,CSE,2.53,3.38,3.58,2.76,3.4,3.85,3.17,2.24,2.64,69,4,3,3,2,1,None,Leader,"HTML/CSS, JavaScript, C++","Leadership, Teamwork",0,1,92.99,92,Improving,2024-09-23,Semester 3
+1200,Kevin Lee,2020,ECE,3.39,2.15,2.99,2.42,3.34,2.94,2.77,2.98,2.68,97,4,2,2,2,4,None,Leader,"Python, Java, SQL","Leadership, Time Management",1,1,75.64,36,Stable,2024-09-09,Semester 2
+2272,Russell Greene,2021,Civil,3.3,2.29,3.75,3.49,2.48,3.79,2.37,2.06,3.32,88,2,2,0,2,1,Course Assistant,None,Java,"Time Management, Leadership",2,0,83.24,48,Improving,2024-08-29,Semester 1
+2683,Rhonda Smith,2022,Mechanical,2.39,2.38,2.35,2.55,3.21,3.04,2.22,2.1,2.5,67,1,0,0,0,5,Course Assistant,Leader,SQL,Problem-solving,1,2,90.99,52,Stable,2024-07-11,Semester 4
+9089,Maria Miller,2019,ECE,3.47,3.76,2.54,2.41,3.57,2.7,2.58,3.19,3.47,66,1,3,2,2,2,Mentor,Participant,"Python, Java, SQL","Leadership, Teamwork",0,2,84.24,43,Improving,2024-03-28,Semester 2
+9349,Angela Davis,2021,CSE,2.34,3.52,2.02,2.7,2.95,2.0,3.75,2.95,2.09,61,4,2,1,2,5,Mentor,Leader,Python,"Problem-solving, Leadership",3,2,80.52,70,Stable,2024-05-10,Semester 4
+9631,Marcus Williams,2021,EEE,2.92,3.66,2.6,2.67,3.04,3.33,3.73,3.69,2.97,77,5,0,1,1,2,None,Leader,"HTML/CSS, Python",Time Management,3,1,76.19,12,Improving,2024-07-10,Semester 4
+3881,Kimberly Armstrong,2019,EEE,3.75,3.36,3.8,2.9,3.92,3.05,2.53,3.36,3.78,85,4,3,2,1,2,Mentor,Participant,"Python, HTML/CSS, SQL","Problem-solving, Communication",0,1,97.82,19,Stable,2024-01-25,Semester 2
+5004,Karen Goodwin,2021,Civil,3.12,2.33,2.97,2.13,2.59,2.91,2.43,3.65,2.25,91,2,0,3,1,1,Mentor,Participant,C++,"Time Management, Teamwork",0,2,78.12,94,Improving,2024-09-22,Semester 4
+6955,Michael Mendez,2019,EEE,2.44,2.95,2.71,3.62,3.27,2.85,3.93,2.2,2.52,79,4,2,1,2,4,None,Participant,"Java, JavaScript, C++",Leadership,1,1,79.15,39,Declining,2024-09-14,Semester 4
+7576,Christine Guzman,2020,Mechanical,3.56,3.67,2.19,3.05,3.39,3.01,3.37,2.72,2.71,89,3,3,3,0,5,Mentor,None,Java,"Teamwork, Problem-solving",1,2,86.3,73,Stable,2024-02-24,Semester 1
+8999,Nicole Thompson,2022,ECE,2.81,2.01,3.61,3.75,2.92,2.11,2.11,3.66,3.3,81,4,0,2,2,4,None,Participant,Python,Teamwork,1,2,92.21,64,Improving,2024-09-24,Semester 2
+8340,Christine Matthews,2020,EEE,3.26,3.44,3.87,3.61,3.25,2.4,2.13,2.31,3.76,93,0,1,1,0,4,Mentor,None,"Python, JavaScript","Leadership, Time Management",1,0,95.25,70,Stable,2024-04-07,Semester 4
+1437,Vincent Mcgee,2019,Mechanical,2.29,2.04,2.28,3.49,2.48,3.02,3.4,2.4,2.96,78,5,0,4,1,3,None,Participant,"HTML/CSS, Python","Leadership, Time Management",1,0,78.5,16,Declining,2024-03-09,Semester 4
+8563,Sabrina Ross,2019,Civil,2.61,3.29,3.79,3.24,2.09,3.81,3.93,2.94,3.45,77,0,1,2,2,5,Mentor,Participant,"SQL, HTML/CSS, Python",Teamwork,2,2,91.58,44,Stable,2024-05-22,Semester 2
+7314,Thomas Alexander,2021,EEE,3.85,2.14,3.68,2.97,3.93,3.21,2.36,3.42,3.01,93,2,1,2,2,5,Course Assistant,None,Python,Teamwork,1,0,89.96,64,Declining,2024-03-21,Semester 4
+2474,Christopher Brown,2021,ECE,3.96,3.62,3.47,2.47,3.8,2.35,3.78,3.51,2.84,64,0,2,0,0,1,Course Assistant,Participant,"JavaScript, Python, Java","Communication, Leadership",3,0,99.67,74,Declining,2024-05-13,Semester 2
+8512,Logan Torres,2020,EEE,2.98,3.36,2.45,3.48,2.87,3.06,3.58,2.17,2.05,66,1,0,1,0,3,Course Assistant,Active Member,"Java, SQL","Teamwork, Time Management",3,2,80.56,80,Declining,2024-03-21,Semester 2
+4137,Sara Wood,2019,Mechanical,2.86,2.75,2.14,2.16,3.56,2.6,2.24,2.46,3.2,81,0,1,2,1,4,None,Participant,Java,"Communication, Teamwork",2,1,88.56,70,Declining,2024-02-06,Semester 1
+4439,Annette Ramirez,2022,EEE,3.31,2.06,2.84,2.4,3.78,2.12,2.41,3.63,2.66,63,1,3,0,2,5,None,Active Member,"Python, HTML/CSS",Time Management,3,0,78.12,6,Improving,2024-04-30,Semester 1
+2845,David Sweeney,2022,Civil,2.45,2.7,2.96,3.56,3.75,2.46,3.86,2.05,3.56,72,4,3,0,2,4,Mentor,None,"JavaScript, Java","Leadership, Teamwork",0,1,73.54,79,Stable,2024-02-03,Semester 3
+6168,Patricia Cooper,2020,EEE,2.87,2.12,2.46,3.18,2.45,3.49,3.78,3.59,3.14,60,5,1,0,0,1,Mentor,None,C++,Problem-solving,2,2,89.66,32,Stable,2024-08-30,Semester 2
+1293,Theresa Clark,2022,Mechanical,3.32,3.31,2.15,3.88,2.41,3.41,3.63,3.8,3.72,88,5,2,2,2,3,None,Leader,"C++, JavaScript, Python",Problem-solving,3,2,98.52,63,Stable,2024-08-27,Semester 1
+9450,Samuel Parks,2020,ECE,3.68,3.04,2.61,3.11,2.25,3.45,3.58,2.07,2.47,88,5,3,0,0,4,Mentor,Participant,"SQL, HTML/CSS","Communication, Time Management",2,2,81.52,3,Stable,2024-05-08,Semester 4
+6547,Michael James,2022,CSE,2.45,2.76,3.32,3.06,3.32,2.06,3.53,3.87,3.82,81,2,1,0,1,5,Course Assistant,None,"JavaScript, Python, SQL","Problem-solving, Leadership",3,2,91.58,99,Declining,2024-05-07,Semester 3
+4573,Edwin Johnson,2020,Mechanical,2.93,3.99,2.48,3.82,2.56,3.37,2.55,4.0,3.54,78,2,3,0,2,3,Course Assistant,Participant,"C++, SQL, Python",Problem-solving,2,1,95.43,57,Stable,2024-04-07,Semester 1
+4463,Rachel Lopez,2022,CSE,2.93,3.93,2.96,3.69,2.44,2.12,3.88,2.55,3.22,80,0,3,1,1,3,Course Assistant,None,Java,Teamwork,0,0,73.43,5,Improving,2024-09-05,Semester 4
+9369,Jamie Bell,2021,CSE,3.11,2.46,3.9,3.98,3.95,2.03,3.69,3.7,3.08,62,4,1,2,0,1,None,None,SQL,Teamwork,1,1,87.11,88,Stable,2024-04-12,Semester 1
+9933,Kristina Gomez,2022,EEE,2.29,2.65,3.58,2.67,2.82,3.3,2.94,3.95,3.24,70,2,0,2,0,5,Mentor,Active Member,"Java, C++, SQL",Leadership,0,2,91.79,49,Declining,2024-05-28,Semester 1
+1272,Margaret Leonard,2019,ECE,3.13,4.0,3.26,3.47,3.08,2.24,3.76,3.6,3.21,93,4,3,2,1,2,None,Participant,C++,Problem-solving,1,1,79.44,15,Declining,2024-07-01,Semester 2
+5320,Michael Douglas,2022,Mechanical,2.72,2.7,3.01,3.83,3.31,3.21,2.9,2.84,3.14,68,4,1,3,2,5,None,Leader,"C++, JavaScript, SQL","Communication, Time Management",3,1,85.15,19,Declining,2024-07-02,Semester 4
+9161,Daniel Swanson,2020,ECE,3.75,2.03,2.24,2.53,3.11,3.86,3.49,2.25,2.07,87,0,1,0,0,5,None,None,"C++, Java","Time Management, Teamwork",2,0,80.1,44,Declining,2024-08-05,Semester 1
+2894,Debra Winters,2019,CSE,3.48,2.71,2.9,2.82,2.9,3.67,2.58,2.95,2.27,71,5,0,1,0,5,None,Participant,"JavaScript, HTML/CSS, SQL","Leadership, Teamwork",2,0,76.97,64,Stable,2024-05-05,Semester 1
+8744,Joseph Carter,2022,EEE,2.65,2.64,2.36,2.29,3.63,3.47,3.98,2.42,3.04,96,4,2,0,1,3,Mentor,Active Member,"C++, HTML/CSS","Teamwork, Time Management",2,1,99.66,97,Improving,2024-09-09,Semester 2
+3531,Aaron Rodriguez,2021,ECE,2.19,3.1,3.02,2.34,3.2,2.08,3.78,3.08,2.39,91,0,2,1,1,5,Course Assistant,None,"Java, HTML/CSS, C++",Communication,3,1,84.8,12,Improving,2024-09-09,Semester 3
+6210,Rachel Nelson,2019,EEE,3.61,3.49,2.44,2.15,2.31,2.67,2.91,3.47,3.34,64,5,2,0,1,1,None,Participant,SQL,Communication,1,0,87.59,29,Declining,2024-01-19,Semester 2
+6751,Mr. Matthew Scott,2021,Mechanical,2.3,3.63,3.47,2.57,2.4,3.75,3.9,3.71,3.5,60,3,0,3,2,5,Mentor,Leader,HTML/CSS,"Time Management, Leadership",1,2,80.46,68,Declining,2024-07-22,Semester 2
+5063,Megan Edwards,2021,ECE,3.75,3.34,2.98,3.26,3.2,3.09,2.59,2.44,3.93,78,3,3,2,0,4,Mentor,Leader,"C++, Python","Leadership, Teamwork",3,1,88.03,88,Improving,2024-08-05,Semester 1
+2293,Dr. Richard Molina,2021,EEE,3.01,3.78,3.57,2.12,3.54,2.52,2.64,2.78,2.88,85,2,0,2,1,2,Course Assistant,Active Member,"HTML/CSS, JavaScript",Time Management,1,2,76.19,81,Improving,2024-02-05,Semester 3
+4615,Melissa Riddle,2020,Civil,3.08,3.9,2.04,2.76,3.56,2.67,2.71,3.53,2.13,63,4,1,2,2,2,Mentor,None,"Java, C++, JavaScript","Problem-solving, Leadership",1,2,92.0,2,Improving,2024-08-31,Semester 1
+1426,Ian Cook,2019,Civil,2.8,2.97,2.31,2.6,2.46,3.54,2.49,2.54,2.25,84,5,3,1,2,3,Mentor,Active Member,SQL,"Communication, Time Management",1,0,92.08,51,Improving,2024-08-29,Semester 3
+4117,Michael Welch,2021,Mechanical,3.02,2.05,2.55,2.41,2.53,3.31,2.94,2.58,2.19,86,4,2,3,1,5,None,Leader,"Python, HTML/CSS","Problem-solving, Communication",3,0,87.34,4,Stable,2024-04-24,Semester 2
+3515,Victor Payne,2022,EEE,2.95,2.22,2.62,2.29,3.26,2.17,3.12,2.42,3.88,97,1,0,1,1,5,Course Assistant,Leader,HTML/CSS,"Leadership, Problem-solving",2,0,71.1,89,Declining,2024-09-24,Semester 4
+5877,Julie Moon,2019,EEE,3.38,3.51,3.59,3.09,2.63,3.3,2.64,3.42,3.03,65,0,3,0,1,2,Mentor,Leader,"JavaScript, Python, Java",Leadership,0,0,96.57,64,Improving,2024-07-17,Semester 4
+7528,Morgan Moore,2020,Civil,2.84,2.02,2.24,3.99,3.44,3.76,2.54,2.64,3.78,96,5,1,1,1,5,None,Leader,"JavaScript, C++, SQL","Leadership, Teamwork",2,2,91.6,18,Improving,2024-08-13,Semester 4
+6406,Marcus Howard,2019,EEE,2.83,2.3,2.13,3.95,2.62,2.38,3.39,3.08,2.66,63,4,3,4,0,1,Course Assistant,Leader,"JavaScript, Python",Problem-solving,2,1,87.53,40,Stable,2024-07-04,Semester 4
+9233,Edgar Gordon,2021,Civil,3.08,3.32,2.15,2.3,3.46,2.56,2.53,2.2,3.59,97,5,3,2,2,5,None,Participant,"SQL, HTML/CSS, Java",Communication,1,0,72.74,79,Improving,2024-05-19,Semester 2
+1463,Anthony Rose,2020,Mechanical,3.75,2.65,3.79,2.1,3.02,2.88,3.33,2.65,3.0,67,1,3,3,1,4,Course Assistant,Participant,"C++, SQL, Python",Teamwork,2,2,74.29,56,Declining,2024-10-12,Semester 4
+4164,Nathaniel Rogers,2022,EEE,3.37,3.12,2.87,2.7,2.05,2.73,2.93,3.34,3.46,73,4,1,3,1,2,None,Active Member,HTML/CSS,"Time Management, Teamwork",0,2,79.31,13,Stable,2024-06-10,Semester 3
+3415,Carol Reese,2019,Civil,2.55,3.29,3.28,2.8,3.99,3.41,2.55,2.11,3.14,61,5,3,4,2,4,Course Assistant,Leader,"JavaScript, SQL",Communication,2,0,88.39,92,Improving,2024-10-04,Semester 2
+6530,Tracey Johnson,2020,CSE,2.84,3.69,2.11,3.27,2.12,2.19,3.09,3.97,2.39,99,5,0,2,2,3,None,Leader,"JavaScript, C++, Python","Leadership, Communication",0,0,94.75,65,Improving,2024-06-09,Semester 3
+7207,Jonathan Kennedy,2019,ECE,2.89,2.55,2.4,3.01,2.35,3.49,3.68,2.01,2.55,82,0,2,3,2,1,None,None,Python,Teamwork,0,0,79.53,81,Improving,2024-02-05,Semester 2
+2458,Sergio Rodriguez,2019,ECE,3.28,2.92,3.75,3.89,2.62,3.36,3.89,3.73,3.49,68,2,0,3,2,3,Mentor,Participant,SQL,"Leadership, Teamwork",1,1,96.51,23,Stable,2024-01-23,Semester 3
+4699,Richard Bishop,2022,EEE,2.18,2.71,2.73,3.54,3.05,3.66,3.37,2.34,3.9,97,3,1,4,2,2,None,None,"JavaScript, C++",Problem-solving,2,0,85.4,27,Stable,2024-08-20,Semester 2
+7088,Steven Harrison,2022,EEE,2.06,2.23,3.32,2.37,2.28,3.17,2.74,2.76,3.18,62,2,0,2,0,2,Course Assistant,None,"C++, Python",Problem-solving,2,0,84.01,24,Improving,2024-02-09,Semester 4
+5944,Lawrence Rice,2022,Civil,3.15,2.87,2.8,3.67,2.51,2.75,2.68,3.36,2.6,74,4,0,3,1,3,None,None,"Python, Java, SQL","Time Management, Teamwork",1,0,89.9,7,Improving,2024-08-30,Semester 3
+9904,Johnny Ponce,2020,EEE,2.92,2.33,2.0,2.29,3.77,2.6,2.16,2.47,2.41,65,5,1,1,2,5,Course Assistant,Active Member,"Java, C++",Leadership,3,2,76.37,61,Declining,2024-04-29,Semester 4
+6555,Kathleen Manning,2022,ECE,3.53,2.19,2.26,3.53,2.27,3.55,3.8,3.64,3.46,87,4,3,4,0,3,Course Assistant,Active Member,SQL,Teamwork,2,1,80.2,1,Declining,2024-03-10,Semester 4
+3538,Rebecca Johnson,2019,ECE,2.28,2.38,2.42,2.87,2.68,3.31,2.85,2.57,2.77,90,0,2,3,0,2,Course Assistant,Active Member,"Python, C++",Leadership,0,0,79.57,74,Declining,2024-05-14,Semester 4
+3640,Eric Gallagher,2022,CSE,2.97,3.92,2.8,3.54,2.61,2.52,3.27,3.21,3.6,88,4,2,3,2,3,None,Participant,Java,"Time Management, Leadership",0,0,70.21,91,Declining,2024-10-09,Semester 3
+7366,Lindsey Shannon DDS,2020,Civil,3.63,3.46,2.91,2.1,2.56,2.24,2.98,2.73,3.78,83,2,3,2,2,3,Mentor,Participant,C++,"Leadership, Communication",3,1,78.93,5,Declining,2024-05-13,Semester 1
+2371,Ashley Bishop,2021,CSE,3.06,2.79,2.35,3.07,2.25,2.29,2.99,3.79,2.69,89,5,1,4,2,4,Mentor,Active Member,"C++, Python",Time Management,0,1,85.38,93,Improving,2024-02-07,Semester 3
+8196,Matthew Murray,2021,Mechanical,2.8,2.37,3.49,3.44,3.49,2.16,3.82,3.93,3.59,96,2,2,4,2,5,Mentor,Active Member,"SQL, HTML/CSS",Leadership,2,2,90.67,24,Stable,2024-03-01,Semester 1
+4536,Danielle Scott,2022,ECE,3.36,2.55,2.81,2.04,2.83,2.26,2.53,3.2,3.95,80,0,1,1,0,3,Mentor,Active Member,"C++, SQL, HTML/CSS","Time Management, Problem-solving",3,1,97.9,2,Stable,2024-05-20,Semester 3
+8362,Johnny Ross,2021,EEE,3.65,2.3,3.71,3.0,3.06,2.34,2.78,2.81,3.32,96,0,3,4,1,1,Mentor,Participant,"C++, JavaScript","Leadership, Communication",1,2,87.55,80,Stable,2024-04-24,Semester 4
+6919,Haley Patton,2022,CSE,3.5,2.57,3.49,3.98,2.75,3.08,2.76,3.9,2.25,85,1,1,0,2,3,Mentor,Leader,"HTML/CSS, SQL, JavaScript","Teamwork, Leadership",2,1,93.11,81,Improving,2024-06-24,Semester 3
+1429,Robin Brown,2022,ECE,3.72,2.99,2.93,3.65,2.9,3.85,2.36,2.58,3.07,81,3,1,0,1,5,None,None,"HTML/CSS, Java",Time Management,1,0,88.29,65,Improving,2024-08-21,Semester 4
+1111,Robert Lopez,2019,EEE,3.22,2.33,3.25,3.37,3.9,2.05,3.2,3.58,2.78,92,1,1,3,1,2,Mentor,None,"Java, C++, JavaScript","Communication, Time Management",1,2,83.84,32,Declining,2024-03-07,Semester 4
+6883,Christopher Pruitt,2020,ECE,3.95,3.0,2.22,3.21,2.66,3.84,2.32,2.92,3.92,60,5,0,3,2,4,Course Assistant,Active Member,"C++, SQL",Time Management,0,1,84.42,93,Improving,2024-09-13,Semester 3
+2469,Sabrina Reilly,2022,CSE,2.73,3.43,3.02,3.3,2.86,2.25,2.29,2.52,3.65,67,5,1,2,1,3,Mentor,Leader,"Java, C++",Problem-solving,0,1,96.98,63,Improving,2024-02-14,Semester 3
+6476,Matthew Leach,2021,EEE,3.38,2.66,2.9,2.52,2.55,2.07,2.28,3.04,2.05,83,4,2,2,1,2,None,Participant,"JavaScript, HTML/CSS","Teamwork, Time Management",1,2,78.77,50,Stable,2024-07-20,Semester 2
+5540,Lori Smith,2019,ECE,3.17,2.3,2.02,2.73,3.02,3.74,3.03,2.95,3.8,82,5,1,4,2,3,None,Participant,"HTML/CSS, Java","Teamwork, Leadership",3,0,90.06,9,Stable,2024-03-24,Semester 2
+4639,Bobby Hoover,2021,ECE,2.45,2.56,3.56,3.58,3.3,2.71,2.92,3.83,3.81,93,1,1,2,2,1,Course Assistant,Active Member,"SQL, Python","Time Management, Communication",0,1,87.0,32,Improving,2024-03-08,Semester 3
+6389,Ryan Baker,2020,ECE,2.46,3.43,2.35,3.96,2.53,2.55,3.49,3.47,3.83,68,4,2,0,0,2,Mentor,None,"Python, SQL",Problem-solving,0,0,84.35,57,Improving,2024-01-25,Semester 4
+5133,Jennifer Jefferson,2020,CSE,3.08,2.43,2.97,3.14,3.16,3.72,2.22,3.77,3.55,72,4,3,0,1,4,None,Participant,"JavaScript, Java","Time Management, Leadership",2,2,78.99,69,Improving,2024-01-20,Semester 3
+3874,Robert Garcia,2021,Civil,3.01,3.25,2.22,3.51,2.36,2.01,3.79,3.02,2.99,71,0,3,2,0,4,Course Assistant,Leader,Python,Teamwork,2,2,79.16,99,Declining,2024-05-09,Semester 4
+3595,Emily Torres,2019,EEE,3.86,2.42,3.34,2.65,2.38,2.79,2.34,2.32,3.33,80,4,3,4,1,3,Mentor,Participant,"C++, JavaScript",Problem-solving,2,2,80.62,96,Stable,2024-10-16,Semester 4
+1221,James Hubbard,2021,Mechanical,3.13,3.53,2.01,3.88,2.11,2.82,3.29,2.28,2.91,77,0,1,1,2,3,Course Assistant,Participant,C++,"Leadership, Problem-solving",1,0,88.53,57,Stable,2024-03-11,Semester 1
+7766,Amy Fleming,2019,ECE,2.32,3.45,3.88,3.19,3.9,3.89,3.56,2.78,3.92,91,1,2,4,2,4,Mentor,Active Member,JavaScript,"Problem-solving, Time Management",3,1,73.33,18,Declining,2024-03-16,Semester 1
+1207,Mr. Caleb Lopez DDS,2021,Mechanical,3.65,3.75,3.18,3.15,3.12,2.88,2.66,3.09,3.32,95,4,2,0,0,1,None,Participant,"HTML/CSS, Java",Problem-solving,3,0,83.82,43,Improving,2024-03-01,Semester 3
+3520,Mark Monroe,2021,Civil,3.5,2.05,2.24,2.82,2.79,2.97,2.1,3.06,3.83,92,2,0,4,1,1,None,Participant,"HTML/CSS, C++, SQL",Communication,0,2,93.42,69,Improving,2024-03-10,Semester 1
+1726,Timothy Greer,2022,Civil,3.3,2.38,2.15,3.37,3.64,2.93,3.78,3.99,2.3,81,0,1,4,1,4,None,None,HTML/CSS,"Communication, Leadership",0,0,76.76,55,Improving,2024-10-03,Semester 3
+6078,Jack Spencer,2020,Civil,3.35,2.65,2.92,3.33,3.54,3.15,2.71,3.76,3.73,69,1,1,1,1,2,Mentor,Active Member,"SQL, Python, Java","Communication, Problem-solving",2,0,89.75,26,Stable,2024-05-10,Semester 2
+3681,Miss Catherine Bates,2022,EEE,2.47,3.84,3.54,2.05,3.76,3.89,2.25,3.9,2.05,73,3,0,3,1,4,Mentor,Leader,"SQL, Python",Teamwork,0,0,92.7,16,Stable,2024-02-28,Semester 3
+8534,Michael Wright,2021,Mechanical,2.38,3.97,3.6,2.72,2.51,2.22,2.91,2.01,3.61,85,0,2,2,1,1,Course Assistant,Participant,JavaScript,Leadership,3,0,98.54,36,Declining,2024-05-19,Semester 3
+8505,Daniel Hunt,2019,ECE,3.69,2.35,2.02,3.04,2.28,2.94,2.08,3.19,2.42,78,2,3,1,1,2,Mentor,Leader,"JavaScript, Java, C++",Teamwork,0,1,76.12,52,Declining,2024-08-22,Semester 3
+5393,Evan Taylor,2021,Civil,2.64,3.57,2.66,3.78,2.07,3.74,3.83,2.09,2.75,98,5,1,1,0,1,Course Assistant,Leader,HTML/CSS,Communication,3,1,99.5,69,Stable,2024-07-08,Semester 2
+2226,Jenna Hughes,2019,EEE,2.95,3.8,2.51,2.65,3.08,3.91,3.34,2.19,2.99,96,1,1,1,2,2,Mentor,Leader,"Python, JavaScript, HTML/CSS","Time Management, Communication",1,0,77.52,94,Declining,2024-07-10,Semester 3
+4162,Kristen Garrett,2021,Mechanical,3.34,3.04,3.15,3.77,3.52,2.26,2.84,3.32,3.16,62,5,3,0,0,2,Mentor,Leader,"Python, Java, SQL","Problem-solving, Communication",3,1,95.73,25,Declining,2024-06-03,Semester 4
+6025,Alexis Jenkins,2022,ECE,2.91,2.53,2.88,3.49,3.31,3.03,2.67,3.99,2.37,81,3,3,0,2,3,None,Participant,C++,"Communication, Teamwork",0,0,99.25,15,Improving,2024-04-05,Semester 3
+5557,Timothy Mcdowell,2020,EEE,2.61,2.87,3.97,2.17,3.73,3.01,2.8,3.88,4.0,72,1,1,0,0,3,None,Leader,"SQL, JavaScript, Python","Time Management, Teamwork",1,1,74.76,88,Improving,2024-06-02,Semester 2
+4278,John Smith,2020,Civil,3.88,3.22,3.72,2.56,3.92,3.9,2.59,3.8,3.94,90,3,2,1,2,3,Mentor,Active Member,"JavaScript, SQL","Teamwork, Communication",0,1,74.21,62,Improving,2024-08-21,Semester 2
+2011,Wendy Williams,2022,ECE,3.29,2.78,2.39,3.67,2.14,3.93,2.55,3.79,2.25,97,5,1,1,1,2,None,Participant,"Python, JavaScript","Time Management, Communication",3,0,89.81,39,Improving,2024-09-11,Semester 4
+3905,Daniel Reed,2020,CSE,3.76,3.51,3.44,3.75,3.9,2.08,3.68,2.51,3.25,87,4,1,3,1,2,None,Active Member,JavaScript,"Teamwork, Leadership",3,1,71.7,14,Stable,2024-05-26,Semester 3
+7358,Ryan Aguilar,2021,Civil,2.66,3.33,2.5,2.71,2.03,3.43,2.97,3.17,2.44,87,5,2,0,2,4,None,None,"SQL, HTML/CSS, Python",Time Management,0,2,72.85,98,Improving,2024-07-02,Semester 3
+6422,Samantha Hammond,2022,Mechanical,3.44,2.08,3.29,2.88,2.92,3.73,2.07,2.8,3.61,87,5,0,1,2,2,Mentor,Participant,C++,"Communication, Leadership",2,1,94.55,45,Stable,2024-04-05,Semester 2
+5930,Philip Bishop,2021,Mechanical,3.57,2.65,3.4,3.27,3.54,2.32,3.12,3.73,3.3,85,2,1,3,0,3,Course Assistant,Leader,"C++, Python",Leadership,2,2,84.92,24,Stable,2024-07-30,Semester 2
+3776,Ashley Thomas,2021,Mechanical,2.7,3.61,3.79,3.51,3.92,2.65,2.22,3.16,3.82,95,2,1,3,2,1,Mentor,Active Member,JavaScript,"Problem-solving, Teamwork",2,2,80.61,18,Stable,2024-06-15,Semester 1
+3064,Justin Delacruz,2021,Civil,3.14,2.16,4.0,2.89,2.08,3.1,3.34,2.55,2.99,74,1,1,3,2,2,Mentor,Active Member,"Java, Python","Leadership, Time Management",1,1,75.58,67,Declining,2024-04-22,Semester 4
+8009,Jerry Harris,2022,EEE,3.41,3.96,3.61,2.53,2.74,3.8,3.87,2.64,2.71,68,2,1,4,2,2,Mentor,None,"C++, Python, Java","Time Management, Teamwork",3,1,87.23,7,Stable,2024-09-15,Semester 4
+8887,Frank Howard,2022,Civil,2.87,3.91,2.34,3.12,3.12,2.12,2.7,3.74,2.3,82,0,2,4,1,1,None,None,"JavaScript, Java","Teamwork, Leadership",2,2,90.92,39,Stable,2024-06-28,Semester 2
+3248,Jose Rodriguez,2022,ECE,3.53,3.96,3.17,3.73,3.94,2.11,3.51,3.17,3.55,64,4,0,4,1,2,None,Leader,SQL,Teamwork,0,2,97.86,94,Improving,2024-03-15,Semester 3
+1591,Justin Ford,2019,CSE,3.89,3.15,3.9,2.77,2.82,3.39,2.28,2.69,2.19,82,1,3,2,1,1,Mentor,Participant,"Java, JavaScript","Communication, Problem-solving",3,0,85.72,3,Declining,2024-05-30,Semester 1
+4418,Cynthia Reyes,2019,EEE,2.19,2.0,3.97,2.03,2.65,2.61,3.6,3.14,2.75,64,1,1,4,1,2,None,Leader,"Python, Java","Time Management, Teamwork",3,2,95.38,99,Improving,2024-10-13,Semester 2
+9652,Gloria Woods,2022,CSE,3.24,3.87,3.78,3.59,2.24,3.87,3.87,2.22,3.37,97,4,1,0,1,2,None,Leader,"C++, HTML/CSS, SQL","Communication, Time Management",2,0,80.97,31,Stable,2024-05-05,Semester 2
+5327,Brittany Jacobson,2022,CSE,2.72,3.83,3.84,3.62,3.82,3.42,3.68,2.2,3.04,80,4,3,4,2,2,Course Assistant,Participant,HTML/CSS,Problem-solving,3,1,83.05,11,Stable,2024-08-13,Semester 1
+4848,Kenneth Perez,2022,CSE,2.64,2.97,2.78,3.0,3.57,2.57,3.37,2.11,3.66,72,0,2,4,2,5,None,Leader,"C++, Python, SQL",Problem-solving,3,0,80.55,69,Improving,2024-04-22,Semester 4
+1148,Andrew Anderson,2020,Civil,2.74,3.4,3.82,2.2,3.9,3.78,3.42,2.15,2.41,73,4,0,0,1,2,None,Active Member,"Python, Java","Teamwork, Leadership",1,1,97.53,52,Improving,2024-05-20,Semester 2
+4907,Patrick Riley,2020,Civil,2.49,3.34,3.76,2.85,3.14,3.73,3.25,2.41,3.76,77,3,0,3,1,4,Course Assistant,Leader,"C++, SQL",Leadership,0,2,93.01,17,Declining,2024-04-22,Semester 2
+4663,Dennis Smith,2019,CSE,2.23,3.8,2.98,2.37,2.65,3.89,2.51,3.36,3.86,85,2,2,2,2,3,Mentor,Active Member,"Java, Python","Teamwork, Time Management",0,1,84.36,15,Improving,2024-02-26,Semester 1
+7051,Candace Tucker,2022,ECE,2.17,3.39,2.13,2.87,2.74,3.48,2.88,3.54,3.33,92,1,1,2,0,5,Mentor,Leader,"C++, Java","Leadership, Teamwork",0,1,81.4,38,Declining,2024-04-08,Semester 1
+4581,Jamie Wilson,2020,ECE,3.25,2.67,3.44,2.05,2.88,3.69,3.2,2.58,2.32,95,2,0,0,2,1,Course Assistant,Active Member,"JavaScript, Java, C++","Communication, Teamwork",0,2,77.01,49,Improving,2024-08-01,Semester 1
+5551,Monica Smith,2022,Civil,2.24,2.45,3.26,3.13,2.15,3.3,3.82,3.87,3.29,78,5,3,3,2,2,None,None,"C++, JavaScript, HTML/CSS","Teamwork, Leadership",2,0,74.33,82,Declining,2024-03-13,Semester 2
+4096,David Thomas,2022,EEE,3.76,2.74,2.04,3.61,2.29,2.92,3.42,3.08,2.45,85,1,2,1,1,4,Course Assistant,None,"HTML/CSS, JavaScript, SQL","Problem-solving, Time Management",2,2,81.97,93,Declining,2024-09-18,Semester 2
+7834,Joseph Lutz,2020,ECE,3.43,3.14,3.9,3.46,3.57,2.73,2.93,3.72,3.58,83,5,2,1,1,2,Course Assistant,Active Member,"JavaScript, HTML/CSS, C++","Communication, Teamwork",1,1,86.55,21,Declining,2024-03-20,Semester 4
+2503,Deborah Hartman,2022,ECE,3.89,2.05,2.41,3.13,2.34,3.97,3.36,3.54,3.28,96,1,1,3,1,4,Mentor,Leader,"C++, SQL",Communication,0,0,70.64,7,Stable,2024-07-27,Semester 1
+9415,Kelly Cole,2021,EEE,2.41,2.3,2.43,3.68,2.73,3.82,3.17,3.66,2.95,71,2,2,0,2,2,Mentor,Leader,"Python, SQL","Teamwork, Leadership",2,2,95.44,32,Improving,2024-07-18,Semester 2
+3465,Courtney Dunn,2022,CSE,3.51,2.27,2.76,2.76,2.34,2.04,3.38,3.64,3.86,97,4,1,3,0,4,None,Participant,"Python, C++",Teamwork,1,2,79.0,51,Improving,2024-09-01,Semester 1
+7092,Kyle Mcintosh,2020,EEE,2.58,3.59,3.57,2.71,3.97,2.99,3.24,3.18,3.98,83,2,1,4,1,5,Mentor,None,"Java, Python",Problem-solving,2,1,99.88,44,Improving,2024-03-31,Semester 3
+5959,William Collins,2022,CSE,2.67,2.06,3.74,3.85,2.02,3.15,2.61,2.4,2.94,84,0,2,3,1,3,None,None,"JavaScript, C++",Problem-solving,2,2,75.79,37,Stable,2024-06-29,Semester 1
+6867,Matthew Maddox,2022,CSE,3.61,3.83,3.72,3.79,2.05,2.26,3.52,2.49,2.35,64,1,1,0,0,1,None,Active Member,"C++, SQL, Python",Time Management,3,2,96.2,86,Improving,2024-09-04,Semester 1
+8259,Tiffany Estrada,2019,ECE,2.4,3.49,2.16,2.18,3.9,2.01,3.58,2.47,2.1,65,3,2,4,0,4,Mentor,None,"JavaScript, Java, HTML/CSS","Time Management, Communication",3,0,85.23,11,Improving,2024-03-19,Semester 2
+9037,Matthew Peters,2021,ECE,3.76,3.15,2.38,2.25,3.52,2.38,3.7,3.51,2.46,85,5,2,4,1,5,None,Participant,HTML/CSS,"Problem-solving, Teamwork",0,2,96.72,88,Stable,2024-09-13,Semester 3
+2549,Dustin Davis,2020,CSE,2.12,2.99,3.81,2.12,3.51,2.86,3.35,3.8,2.89,65,2,2,4,2,1,None,Participant,"C++, HTML/CSS, JavaScript","Problem-solving, Leadership",2,1,79.4,96,Improving,2024-03-09,Semester 2
+3356,Thomas Lopez,2020,CSE,3.38,2.82,3.76,2.65,3.59,3.89,2.81,3.74,2.93,69,1,3,3,0,2,Course Assistant,None,"Java, HTML/CSS, C++",Leadership,1,0,87.79,24,Improving,2024-06-26,Semester 1
+2748,George Taylor,2019,Mechanical,2.94,2.54,2.4,2.99,2.32,3.66,3.71,2.56,2.38,98,5,3,3,1,2,Course Assistant,Active Member,"Python, JavaScript","Leadership, Problem-solving",1,0,85.56,64,Improving,2024-05-27,Semester 4
+2433,Lisa Gutierrez,2022,CSE,3.91,3.26,2.68,2.62,3.24,3.22,3.2,3.06,2.68,83,5,1,2,2,4,Mentor,Active Member,"C++, HTML/CSS",Teamwork,2,2,77.0,41,Declining,2024-06-12,Semester 4
+2596,Thomas Clark,2021,Civil,2.68,3.59,3.4,3.8,3.93,3.56,3.14,3.82,3.42,99,1,1,3,2,4,Mentor,Participant,"Python, HTML/CSS, Java","Communication, Leadership",3,2,97.01,94,Stable,2024-02-16,Semester 1
+1493,Jennifer Cox,2022,Mechanical,3.55,3.58,2.55,2.29,3.7,2.12,2.49,3.27,2.65,99,3,1,2,1,4,Course Assistant,Leader,"Java, SQL, Python","Communication, Teamwork",2,0,93.72,55,Declining,2024-03-23,Semester 1
+7803,Gene Murphy,2021,EEE,2.41,2.59,2.06,3.29,2.84,2.74,3.55,3.99,2.89,84,4,1,4,1,3,Mentor,Participant,"C++, Java","Problem-solving, Teamwork",1,1,98.68,16,Improving,2024-04-07,Semester 3
+7423,Russell Snyder PhD,2022,EEE,2.28,3.66,2.75,2.05,2.87,2.65,2.36,3.23,3.52,78,2,0,4,0,2,Course Assistant,Active Member,Java,Communication,1,2,77.05,97,Stable,2024-07-22,Semester 3
+2574,Earl Hill,2021,CSE,2.83,3.5,2.98,3.09,3.05,3.28,2.79,2.31,3.65,73,3,1,0,1,2,Mentor,Active Member,"JavaScript, SQL, Python",Teamwork,3,0,71.27,98,Improving,2024-06-16,Semester 2
+5505,Phillip Mcpherson,2020,Civil,2.64,2.78,3.27,2.79,3.02,2.58,2.05,3.43,2.83,64,0,1,4,0,2,Mentor,None,C++,Time Management,2,2,96.96,22,Stable,2024-03-29,Semester 2
+3333,Zachary Stewart,2020,Civil,2.01,3.26,3.25,2.53,2.75,2.78,3.67,3.51,2.51,72,2,2,3,0,3,Course Assistant,Active Member,"SQL, JavaScript","Teamwork, Time Management",0,0,81.62,14,Declining,2024-08-26,Semester 2
+7996,Katherine Palmer,2020,Civil,3.47,2.6,3.38,2.43,3.19,2.61,2.93,3.3,2.46,76,1,0,2,0,2,Mentor,Participant,HTML/CSS,"Problem-solving, Leadership",3,2,92.62,63,Stable,2024-08-27,Semester 3
+1573,Dawn Fowler,2020,CSE,3.23,3.77,3.71,3.24,3.71,3.89,3.86,2.61,2.76,96,1,0,0,1,2,None,Leader,"JavaScript, C++",Problem-solving,3,2,70.67,99,Improving,2024-08-17,Semester 1
+6434,Tina Simmons,2021,ECE,2.53,3.86,3.77,3.6,2.41,3.84,3.49,3.36,2.06,90,1,0,0,0,2,Course Assistant,Participant,"Python, SQL","Communication, Teamwork",1,0,81.93,49,Improving,2024-05-02,Semester 1
+9160,Kathryn Deleon,2022,Mechanical,3.66,2.82,3.95,3.15,2.09,2.13,3.54,2.56,2.56,90,1,2,0,2,3,Mentor,Leader,"HTML/CSS, Python, SQL","Time Management, Leadership",1,2,95.45,7,Stable,2024-05-25,Semester 3
+9166,Brittany Steele,2019,Civil,2.73,3.64,3.09,2.75,3.8,3.45,3.08,2.64,3.28,86,1,3,2,1,3,Course Assistant,Leader,"HTML/CSS, SQL, JavaScript","Leadership, Communication",2,0,79.98,46,Declining,2024-07-01,Semester 4
+9476,Brenda Hicks,2022,Civil,3.72,2.33,2.09,3.01,3.72,3.25,3.2,3.08,3.66,70,4,1,1,2,4,Mentor,None,SQL,Time Management,0,2,70.12,71,Declining,2024-01-17,Semester 2
+1324,Alexandria King,2020,EEE,2.98,2.65,3.67,2.75,3.87,3.05,3.64,2.44,2.7,86,5,0,1,2,4,Mentor,Leader,"Python, SQL, JavaScript","Teamwork, Communication",2,0,92.67,39,Improving,2024-07-16,Semester 1
+4949,Mark Lewis,2020,CSE,2.03,2.59,2.41,3.66,3.36,2.13,2.91,2.24,3.89,85,0,2,2,1,3,Mentor,Participant,"SQL, JavaScript","Time Management, Communication",3,0,85.0,45,Improving,2024-04-20,Semester 3
+9192,Daniel Smith,2022,Mechanical,3.51,3.54,2.85,3.17,3.76,3.9,3.37,3.99,2.76,91,0,3,2,2,1,Mentor,Leader,"JavaScript, Python, HTML/CSS","Problem-solving, Teamwork",3,0,79.69,71,Declining,2024-02-24,Semester 4
+7521,Paul Sims,2020,Civil,2.82,2.02,2.26,3.73,3.56,3.87,2.89,3.0,2.93,96,3,0,2,2,1,None,None,HTML/CSS,"Teamwork, Communication",2,2,79.94,15,Declining,2024-05-11,Semester 2
